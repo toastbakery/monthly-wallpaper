@@ -1,0 +1,3194 @@
+[
+    {
+        "solarterm": "lichun",
+        "colorlist": [
+            {
+                "name": "huang bai you",
+                "cn_name": "黄白游",
+                "pinyin": "Huáng Bái Yóu",
+                "hex": "#FFF799",
+                "rgb": "RGB(255, 247, 153)",
+                "cmyk": "CMYK(0,0,50,0)"
+            },
+            {
+                "name": "song hua",
+                "cn_name": "松花",
+                "pinyin": "Sōng Huā",
+                "hex": "#FFEE6F",
+                "rgb": "RGB(255, 238, 111)",
+                "cmyk": "CMYK(0,5,65,0)"
+            },
+            {
+                "name": "xiang ye",
+                "cn_name": "缃叶",
+                "pinyin": "Xiāng Yè",
+                "hex": "#ECD452",
+                "rgb": "RGB(236, 212, 82)",
+                "cmyk": "CMYK(10,15,75,5)"
+            },
+            {
+                "name": "cang huang",
+                "cn_name": "苍黄",
+                "pinyin": "Cāng Huáng",
+                "hex": "#B6A014",
+                "rgb": "RGB(182, 160, 20)",
+                "cmyk": "CMYK(35,35,100,0)"
+            },
+            {
+                "name": "tian piao",
+                "cn_name": "天缥",
+                "pinyin": "Tiān Piāo",
+                "hex": "#D5EBE1",
+                "rgb": "RGB(213, 235, 225)",
+                "cmyk": "CMYK(20,0,15,0)"
+            },
+            {
+                "name": "cang lang",
+                "cn_name": "沧浪",
+                "pinyin": "Cāng Làng",
+                "hex": "#B1D5C8",
+                "rgb": "RGB(177, 213, 200)",
+                "cmyk": "CMYK(35,5,25,0)"
+            },
+            {
+                "name": "cang lang",
+                "cn_name": "苍筤",
+                "pinyin": "Cāng Láng",
+                "hex": "#99BCAC",
+                "rgb": "RGB(153, 188, 172)",
+                "cmyk": "CMYK(45,15,35,0)"
+            },
+            {
+                "name": "piao bi",
+                "cn_name": "缥碧",
+                "pinyin": "Piāo Bì",
+                "hex": "#80A492",
+                "rgb": "RGB(128, 164, 146)",
+                "cmyk": "CMYK(55,25,45,0)"
+            },
+            {
+                "name": "liu huang",
+                "cn_name": "流黄",
+                "pinyin": "Liú Huáng",
+                "hex": "#8B7042",
+                "rgb": "RGB(139, 112, 66)",
+                "cmyk": "CMYK(50,55,80,10)"
+            },
+            {
+                "name": "li ke",
+                "cn_name": "栗壳",
+                "pinyin": "Lì Ké",
+                "hex": "#775039",
+                "rgb": "RGB(119, 80, 57)",
+                "cmyk": "CMYK(55,70,80,20)"
+            },
+            {
+                "name": "long zhan",
+                "cn_name": "龙战",
+                "pinyin": "Lóng Zhàn",
+                "hex": "#5F4321",
+                "rgb": "RGB(95, 67, 33)",
+                "cmyk": "CMYK(60,70,95,35)"
+            },
+            {
+                "name": "qing li",
+                "cn_name": "青骊",
+                "pinyin": "Qīng Lí",
+                "hex": "#422517",
+                "rgb": "RGB(66, 37, 23)",
+                "cmyk": "CMYK(65,80,90,55)"
+            },
+            {
+                "name": "hai tian xia",
+                "cn_name": "海天霞",
+                "pinyin": "Hǎi Tiān Xiá",
+                "hex": "#F3A694",
+                "rgb": "RGB(243, 166, 148)",
+                "cmyk": "CMYK(0,45,35,0)"
+            },
+            {
+                "name": "jin yun",
+                "cn_name": "缙云",
+                "pinyin": "Jìn Yún",
+                "hex": "#EE7959",
+                "rgb": "RGB(238, 121, 89)",
+                "cmyk": "CMYK(0,65,60,0)"
+            },
+            {
+                "name": "xun huang",
+                "cn_name": "纁黄",
+                "pinyin": "Xūn Huáng",
+                "hex": "#BA5140",
+                "rgb": "RGB(186, 81, 64)",
+                "cmyk": "CMYK(30,80,75,0)"
+            },
+            {
+                "name": "shan hu he",
+                "cn_name": "珊瑚赫",
+                "pinyin": "Shān Hú Hè",
+                "hex": "#C12C1F",
+                "rgb": "RGB(193, 44, 31)",
+                "cmyk": "CMYK(25,95,100,0)"
+            }
+        ]
+    },
+    {
+        "solarterm": "yushui",
+        "colorlist": [
+            {
+                "name": "ying ying",
+                "cn_name": "盈盈",
+                "pinyin": "Yíng Yíng",
+                "hex": "#F9D3E3",
+                "rgb": "RGB(249, 211, 227)",
+                "cmyk": "CMYK(0,25,0,0)"
+            },
+            {
+                "name": "shui hong",
+                "cn_name": "水红",
+                "pinyin": "Shuǐ Hóng",
+                "hex": "#ECB0C1",
+                "rgb": "RGB(236, 176, 193)",
+                "cmyk": "CMYK(5,40,10,0)"
+            },
+            {
+                "name": "su mei",
+                "cn_name": "苏梅",
+                "pinyin": "Sū Méi",
+                "hex": "#DD7694",
+                "rgb": "RGB(221, 118, 148)",
+                "cmyk": "CMYK(10,65,20,0)"
+            },
+            {
+                "name": "zi jing ping feng",
+                "cn_name": "紫茎屏风",
+                "pinyin": "Zǐ Jīng Píng Fēng",
+                "hex": "#A76283",
+                "rgb": "RGB(167, 98, 131)",
+                "cmyk": "CMYK(40,70,30,0)"
+            },
+            {
+                "name": "jia hui",
+                "cn_name": "葭灰",
+                "pinyin": "Jiā Huī",
+                "hex": "#BEB1AA",
+                "rgb": "RGB(190, 177, 170)",
+                "cmyk": "CMYK(30,30,30,0)"
+            },
+            {
+                "name": "huang ai",
+                "cn_name": "黄埃",
+                "pinyin": "Huáng Āi",
+                "hex": "#B49273",
+                "rgb": "RGB(180, 146, 115)",
+                "cmyk": "CMYK(35,45,55,0)"
+            },
+            {
+                "name": "lao seng yi",
+                "cn_name": "老僧衣",
+                "pinyin": "Lǎo Sēng Yī",
+                "hex": "#A46244",
+                "rgb": "RGB(164, 98, 68)",
+                "cmyk": "CMYK(40,70,75,5)"
+            },
+            {
+                "name": "xuan tian",
+                "cn_name": "玄天",
+                "pinyin": "Xuán Tiān",
+                "hex": "#6B5458",
+                "rgb": "RGB(107, 84, 88)",
+                "cmyk": "CMYK(65,70,60,10)"
+            },
+            {
+                "name": "huang he liu li",
+                "cn_name": "黄河琉璃",
+                "pinyin": "Huáng Hé Liú Lí",
+                "hex": "#E5A84B",
+                "rgb": "RGB(229, 168, 75)",
+                "cmyk": "CMYK(10,40,75,0)"
+            },
+            {
+                "name": "ku jin",
+                "cn_name": "库金",
+                "pinyin": "Kù Jīn",
+                "hex": "#E18A3B",
+                "rgb": "RGB(225, 138, 59)",
+                "cmyk": "CMYK(10,55,80,0)"
+            },
+            {
+                "name": "yun fu",
+                "cn_name": "缊韨",
+                "pinyin": "Yūn Fú",
+                "hex": "#984F31",
+                "rgb": "RGB(152, 79, 49)",
+                "cmyk": "CMYK(40,75,85,15)"
+            },
+            {
+                "name": "zi ou",
+                "cn_name": "紫瓯",
+                "pinyin": "Zǐ Ōu",
+                "hex": "#7C461E",
+                "rgb": "RGB(124, 70, 30)",
+                "cmyk": "CMYK(50,75,100,25)"
+            },
+            {
+                "name": "ou bi",
+                "cn_name": "欧碧",
+                "pinyin": "Ōu Bì",
+                "hex": "#C0D695",
+                "rgb": "RGB(192, 214, 149)",
+                "cmyk": "CMYK(30,5,50,0)"
+            },
+            {
+                "name": "chun chen",
+                "cn_name": "春辰",
+                "pinyin": "Chūn Chén",
+                "hex": "#A9BE7B",
+                "rgb": "RGB(169, 190, 123)",
+                "cmyk": "CMYK(40,15,60,0)"
+            },
+            {
+                "name": "bi shan",
+                "cn_name": "碧山",
+                "pinyin": "Bì Shān",
+                "hex": "#779649",
+                "rgb": "RGB(119, 150, 73)",
+                "cmyk": "CMYK(60,30,85,0)"
+            },
+            {
+                "name": "qing qing",
+                "cn_name": "青青",
+                "pinyin": "Qīng Qīng",
+                "hex": "#4F6F46",
+                "rgb": "Error: Invalid color value",
+                "cmyk": "CMYK(75,50,85,5)"
+            }
+        ]
+    },
+    {
+        "solarterm": "jingzhe",
+        "colorlist": [
+            {
+                "name": "chi ti",
+                "cn_name": "赤缇",
+                "pinyin": "Chì Tí",
+                "hex": "#BA5B49",
+                "rgb": "RGB(186, 91, 73)",
+                "cmyk": "CMYK(30,75,70,0)"
+            },
+            {
+                "name": "zhu cao",
+                "cn_name": "朱草",
+                "pinyin": "Zhū Cǎo",
+                "hex": "#A64036",
+                "rgb": "RGB(166, 64, 54)",
+                "cmyk": "CMYK(35,85,80,10)"
+            },
+            {
+                "name": "qian fa",
+                "cn_name": "綪茷",
+                "pinyin": "Qiàn Fá",
+                "hex": "#9E2A22",
+                "rgb": "RGB(158, 42, 34)",
+                "cmyk": "CMYK(40,95,100,10)"
+            },
+            {
+                "name": "shun sheng",
+                "cn_name": "顺圣",
+                "pinyin": "Shùn Shèng",
+                "hex": "#7C191E",
+                "rgb": "RGB(124, 25, 30)",
+                "cmyk": "CMYK(50,100,100,25)"
+            },
+            {
+                "name": "tao yao",
+                "cn_name": "桃夭",
+                "pinyin": "Táo Yāo",
+                "hex": "#F6BEC8",
+                "rgb": "RGB(246, 190, 200)",
+                "cmyk": "CMYK(0,35,10,0)"
+            },
+            {
+                "name": "yang fei",
+                "cn_name": "杨妃",
+                "pinyin": "Yáng Fēi",
+                "hex": "#F091A0",
+                "rgb": "RGB(240, 145, 160)",
+                "cmyk": "CMYK(0,55,20,0)"
+            },
+            {
+                "name": "chang chun",
+                "cn_name": "长春",
+                "pinyin": "Cháng Chūn",
+                "hex": "#DC6B82",
+                "rgb": "RGB(220, 107, 130)",
+                "cmyk": "CMYK(10,70,30,0)"
+            },
+            {
+                "name": "ya fei",
+                "cn_name": "牙绯",
+                "pinyin": "Yá Fēi",
+                "hex": "#C35C5D",
+                "rgb": "RGB(195, 92, 93)",
+                "cmyk": "CMYK(25,75,55,0)"
+            },
+            {
+                "name": "huang li liu",
+                "cn_name": "黄栗留",
+                "pinyin": "Huáng Lì Liú",
+                "hex": "#FEDC5E",
+                "rgb": "RGB(254, 220, 94)",
+                "cmyk": "CMYK(0,15,70,0)"
+            },
+            {
+                "name": "zhi zi",
+                "cn_name": "栀子",
+                "pinyin": "Zhī Zi",
+                "hex": "#FAC03D",
+                "rgb": "RGB(250, 192, 61)",
+                "cmyk": "CMYK(0,30,80,0)"
+            },
+            {
+                "name": "huang bu lao",
+                "cn_name": "黄不老",
+                "pinyin": "Huáng Bù Lǎo",
+                "hex": "#DB9B34",
+                "rgb": "RGB(219, 155, 52)",
+                "cmyk": "CMYK(15,45,85,0)"
+            },
+            {
+                "name": "zhe huang",
+                "cn_name": "柘黄",
+                "pinyin": "Zhè Huáng",
+                "hex": "#C67915",
+                "rgb": "RGB(198, 121, 21)",
+                "cmyk": "CMYK(25,60,100,0)"
+            },
+            {
+                "name": "qing luan",
+                "cn_name": "青鸾",
+                "pinyin": "Qīng Luán",
+                "hex": "#9AA7B1",
+                "rgb": "RGB(154, 167, 177)",
+                "cmyk": "CMYK(45,30,25,0)"
+            },
+            {
+                "name": "song lan",
+                "cn_name": "菘蓝",
+                "pinyin": "Sōng Lán",
+                "hex": "#6B798E",
+                "rgb": "RGB(107, 121, 142)",
+                "cmyk": "CMYK(65,50,35,0)"
+            },
+            {
+                "name": "qing dai",
+                "cn_name": "青黛",
+                "pinyin": "Qīng Dài",
+                "hex": "#45465E",
+                "rgb": "RGB(69, 70, 94)",
+                "cmyk": "CMYK(80,75,50,15)"
+            },
+            {
+                "name": "gan die",
+                "cn_name": "绀蝶",
+                "pinyin": "Gàn Dié",
+                "hex": "#2C2F3B",
+                "rgb": "RGB(44, 47, 59)",
+                "cmyk": "CMYK(85,80,65,40)"
+            }
+        ]
+    },
+    {
+        "solarterm": "chunfen",
+        "colorlist": [
+            {
+                "name": "jiao yu",
+                "cn_name": "皦玉",
+                "pinyin": "Jiǎo Yù",
+                "hex": "#EBEEE8",
+                "rgb": "RGB(235, 238, 232)",
+                "cmyk": "CMYK(10,5,10,0)"
+            },
+            {
+                "name": "ji liang",
+                "cn_name": "吉量",
+                "pinyin": "Jí Liàng",
+                "hex": "#EBEDDF",
+                "rgb": "RGB(235, 237, 223)",
+                "cmyk": "CMYK(10,5,15,0)"
+            },
+            {
+                "name": "shao fen",
+                "cn_name": "韶粉",
+                "pinyin": "Sháo Fěn",
+                "hex": "#E0E0D0",
+                "rgb": "RGB(224, 224, 208)",
+                "cmyk": "CMYK(15,10,20,0)"
+            },
+            {
+                "name": "shuang di",
+                "cn_name": "霜地",
+                "pinyin": "Shuāng Dì",
+                "hex": "#C7C6B6",
+                "rgb": "RGB(199, 198, 182)",
+                "cmyk": "CMYK(20,15,25,10)"
+            },
+            {
+                "name": "xia yue",
+                "cn_name": "夏籥",
+                "pinyin": "Xià Yuè",
+                "hex": "#D2AF9D",
+                "rgb": "RGB(210, 175, 157)",
+                "cmyk": "CMYK(20,35,35,0)"
+            },
+            {
+                "name": "zi mo jin",
+                "cn_name": "紫磨金",
+                "pinyin": "Zǐ Mó Jīn",
+                "hex": "#BC836B",
+                "rgb": "RGB(188, 131, 107)",
+                "cmyk": "CMYK(30,55,55,0)"
+            },
+            {
+                "name": "tan se",
+                "cn_name": "檀色",
+                "pinyin": "Tán Sè",
+                "hex": "#B26D5D",
+                "rgb": "RGB(178, 109, 93)",
+                "cmyk": "CMYK(35,65,60,0)"
+            },
+            {
+                "name": "zhe luo",
+                "cn_name": "赭罗",
+                "pinyin": "Zhě Luó",
+                "hex": "#9A6655",
+                "rgb": "RGB(154, 102, 85)",
+                "cmyk": "CMYK(45,65,65,5)"
+            },
+            {
+                "name": "huang dan",
+                "cn_name": "黄丹",
+                "pinyin": "Huáng Dān",
+                "hex": "#EA5514",
+                "rgb": "RGB(234, 85, 20)",
+                "cmyk": "CMYK(0,80,95,0)"
+            },
+            {
+                "name": "luo shen zhu",
+                "cn_name": "洛神珠",
+                "pinyin": "Luò Shén Zhū",
+                "hex": "#D23918",
+                "rgb": "RGB(210, 57, 24)",
+                "cmyk": "CMYK(15,90,100,0)"
+            },
+            {
+                "name": "dan wo",
+                "cn_name": "丹雘",
+                "pinyin": "Dān Wò",
+                "hex": "#C8161D",
+                "rgb": "RGB(200, 22, 29)",
+                "cmyk": "CMYK(20,100,100,0)"
+            },
+            {
+                "name": "shui hua zhu",
+                "cn_name": "水华朱",
+                "pinyin": "Shuǐ Huá Zhū",
+                "hex": "#A72126",
+                "rgb": "RGB(167, 33, 38)",
+                "cmyk": "CMYK(40,100,100,0)"
+            },
+            {
+                "name": "qing ming",
+                "cn_name": "青冥",
+                "pinyin": "Qīng Míng",
+                "hex": "#3271AE",
+                "rgb": "RGB(50, 113, 174)",
+                "cmyk": "CMYK(80,50,10,0)"
+            },
+            {
+                "name": "qing wo",
+                "cn_name": "青雘",
+                "pinyin": "Qīng Wò",
+                "hex": "#007175",
+                "rgb": "RGB(0, 113, 117)",
+                "cmyk": "CMYK(95,45,55,0)"
+            },
+            {
+                "name": "qing gua",
+                "cn_name": "青緺",
+                "pinyin": "Qīng Guā",
+                "hex": "#284852",
+                "rgb": "RGB(40, 72, 82)",
+                "cmyk": "CMYK(90,75,65,10)"
+            },
+            {
+                "name": "qi lin",
+                "cn_name": "骐驎",
+                "pinyin": "Qí Lín",
+                "hex": "#12264F",
+                "rgb": "RGB(18, 38, 79)",
+                "cmyk": "CMYK(100,95,50,25)"
+            }
+        ]
+    },
+    {
+        "solarterm": "qingming",
+        "colorlist": [
+            {
+                "name": "zi pu",
+                "cn_name": "紫蒲",
+                "pinyin": "Zǐ Pú",
+                "hex": "#A6559D",
+                "rgb": "RGB(166, 85, 157)",
+                "cmyk": "CMYK(40,75,0,0)"
+            },
+            {
+                "name": "cheng zi",
+                "cn_name": "赪紫",
+                "pinyin": "Chēng Zǐ",
+                "hex": "#8A1874",
+                "rgb": "RGB(138, 24, 116)",
+                "cmyk": "CMYK(55,100,20,0)"
+            },
+            {
+                "name": "qi zi",
+                "cn_name": "齐紫",
+                "pinyin": "Qí Zǐ",
+                "hex": "#6C216D",
+                "rgb": "RGB(108, 33, 109)",
+                "cmyk": "CMYK(70,100,30,0)"
+            },
+            {
+                "name": "ning ye zi",
+                "cn_name": "凝夜紫",
+                "pinyin": "Níng Yè Zǐ",
+                "hex": "#422256",
+                "rgb": "RGB(66, 34, 86)",
+                "cmyk": "CMYK(85,100,45,15)"
+            },
+            {
+                "name": "dong piao",
+                "cn_name": "冻缥",
+                "pinyin": "Dòng Piāo",
+                "hex": "#BEC2B3",
+                "rgb": "RGB(190, 194, 179)",
+                "cmyk": "CMYK(30,20,30,0)"
+            },
+            {
+                "name": "chun bi",
+                "cn_name": "春碧",
+                "pinyin": "Chūn Bì",
+                "hex": "#9D9D82",
+                "rgb": "RGB(157, 157, 130)",
+                "cmyk": "CMYK(45,35,50,0)"
+            },
+            {
+                "name": "zhi da xiang",
+                "cn_name": "执大象",
+                "pinyin": "Zhí Dà Xiàng",
+                "hex": "#919177",
+                "rgb": "RGB(145, 145, 119)",
+                "cmyk": "CMYK(50,40,55,0)"
+            },
+            {
+                "name": "tai gu",
+                "cn_name": "苔古",
+                "pinyin": "Tái Gǔ",
+                "hex": "#79836C",
+                "rgb": "RGB(121, 131, 108)",
+                "cmyk": "CMYK(60,45,60,0)"
+            },
+            {
+                "name": "xiang lu zi yan",
+                "cn_name": "香炉紫烟",
+                "pinyin": "Xiāng Lú Zǐ Yān",
+                "hex": "#D3CCD6",
+                "rgb": "RGB(211, 204, 214)",
+                "cmyk": "CMYK(20,20,10,0)"
+            },
+            {
+                "name": "zi di",
+                "cn_name": "紫菂",
+                "pinyin": "Zǐ Dì",
+                "hex": "#9B8EA9",
+                "rgb": "RGB(155, 142, 169)",
+                "cmyk": "CMYK(45,45,20,0)"
+            },
+            {
+                "name": "fu zi mian",
+                "cn_name": "拂紫绵",
+                "pinyin": "Fú Zǐ Mián",
+                "hex": "#7E527F",
+                "rgb": "RGB(126, 82, 127)",
+                "cmyk": "CMYK(60,75,30,0)"
+            },
+            {
+                "name": "san gong zi",
+                "cn_name": "三公子",
+                "pinyin": "Sān Gōng Zi",
+                "hex": "#663D74",
+                "rgb": "RGB(102, 61, 116)",
+                "cmyk": "CMYK(70,85,30,5)"
+            },
+            {
+                "name": "lang gan zi",
+                "cn_name": "琅玕紫",
+                "pinyin": "Láng Gān Zǐ",
+                "hex": "#CB5C83",
+                "rgb": "RGB(203, 92, 131)",
+                "cmyk": "CMYK(20,75,25,0)"
+            },
+            {
+                "name": "hong zhi zhu",
+                "cn_name": "红踯躅",
+                "pinyin": "Hóng Zhí Zhú",
+                "hex": "#B83570",
+                "rgb": "RGB(184, 53, 112)",
+                "cmyk": "CMYK(30,90,30,0)"
+            },
+            {
+                "name": "wei hong",
+                "cn_name": "魏红",
+                "pinyin": "Wèi Hóng",
+                "hex": "#A73766",
+                "rgb": "RGB(167, 55, 102)",
+                "cmyk": "CMYK(40,90,40,0)"
+            },
+            {
+                "name": "wei zi",
+                "cn_name": "魏紫",
+                "pinyin": "Wèi Zǐ",
+                "hex": "#903754",
+                "rgb": "RGB(144, 55, 84)",
+                "cmyk": "CMYK(50,90,55,5)"
+            }
+        ]
+    },
+    {
+        "solarterm": "guyu",
+        "colorlist": [
+            {
+                "name": "chang rong",
+                "cn_name": "昌荣",
+                "pinyin": "Chāng Róng",
+                "hex": "#DCC7E1",
+                "rgb": "RGB(220, 199, 225)",
+                "cmyk": "CMYK(15,25,0,0)"
+            },
+            {
+                "name": "zi bao han",
+                "cn_name": "紫薄汗",
+                "pinyin": "Zǐ Báo Hàn",
+                "hex": "#BBA1CB",
+                "rgb": "RGB(187, 161, 203)",
+                "cmyk": "CMYK(30,40,0,0)"
+            },
+            {
+                "name": "ci miao",
+                "cn_name": "茈藐",
+                "pinyin": "Cí Miǎo",
+                "hex": "#A67EB7",
+                "rgb": "RGB(166, 126, 183)",
+                "cmyk": "CMYK(40,55,0,0)"
+            },
+            {
+                "name": "zi qu",
+                "cn_name": "紫紶",
+                "pinyin": "Zǐ Qū",
+                "hex": "#7D5284",
+                "rgb": "RGB(125, 82, 132)",
+                "cmyk": "CMYK(60,75,25,0)"
+            },
+            {
+                "name": "cang jia",
+                "cn_name": "苍葭",
+                "pinyin": "Cāng Jiā",
+                "hex": "#A8BF8F",
+                "rgb": "RGB(168, 191, 143)",
+                "cmyk": "CMYK(40,15,50,0)"
+            },
+            {
+                "name": "ting wu lv",
+                "cn_name": "庭芜绿",
+                "pinyin": "Tíng Wú Lǜ",
+                "hex": "#68945C",
+                "rgb": "RGB(104, 148, 92)",
+                "cmyk": "CMYK(65,30,75,0)"
+            },
+            {
+                "name": "cui wei",
+                "cn_name": "翠微",
+                "pinyin": "Cuì Wēi",
+                "hex": "#4C8045",
+                "rgb": "RGB(76, 128, 69)",
+                "cmyk": "CMYK(75,40,90,0)"
+            },
+            {
+                "name": "cui qiu",
+                "cn_name": "翠虬",
+                "pinyin": "Cuì Qiú",
+                "hex": "#446A37",
+                "rgb": "RGB(68, 106, 55)",
+                "cmyk": "CMYK(80,55,100,0)"
+            },
+            {
+                "name": "bi luo",
+                "cn_name": "碧落",
+                "pinyin": "Bì Luò",
+                "hex": "#AED0EE",
+                "rgb": "RGB(174, 208, 238)",
+                "cmyk": "CMYK(35,10,0,0)"
+            },
+            {
+                "name": "rua lan",
+                "cn_name": "挼蓝",
+                "pinyin": "Ruá Lán",
+                "hex": "#6E9BC5",
+                "rgb": "RGB(110, 155, 197)",
+                "cmyk": "CMYK(60,30,10,0)"
+            },
+            {
+                "name": "qing que tou dai",
+                "cn_name": "青雀头黛",
+                "pinyin": "Qīng Què Tóu Dài",
+                "hex": "#354E6B",
+                "rgb": "RGB(53, 78, 107)",
+                "cmyk": "CMYK(85,70,45,10)"
+            },
+            {
+                "name": "luo zi dai",
+                "cn_name": "螺子黛",
+                "pinyin": "Luó Zi Dài",
+                "hex": "#13393E",
+                "rgb": "RGB(19, 57, 62)",
+                "cmyk": "CMYK(95,80,75,25)"
+            },
+            {
+                "name": "lu he",
+                "cn_name": "露褐",
+                "pinyin": "Lù Hè",
+                "hex": "#BD8253",
+                "rgb": "RGB(189, 130, 83)",
+                "cmyk": "CMYK(30,55,70,0)"
+            },
+            {
+                "name": "tan he",
+                "cn_name": "檀褐",
+                "pinyin": "Tán Hè",
+                "hex": "#945635",
+                "rgb": "RGB(148, 86, 53)",
+                "cmyk": "CMYK(50,75,90,0)"
+            },
+            {
+                "name": "zou chi",
+                "cn_name": "緅絺",
+                "pinyin": "Zōu Chī",
+                "hex": "#804C2E",
+                "rgb": "RGB(128, 76, 46)",
+                "cmyk": "CMYK(60,80,100,0)"
+            },
+            {
+                "name": "mu tong zi",
+                "cn_name": "目童子",
+                "pinyin": "Mù Tóng Zi",
+                "hex": "#5B3222",
+                "rgb": "RGB(91, 50, 34)",
+                "cmyk": "CMYK(60,80,90,40)"
+            }
+        ]
+    },
+    {
+        "solarterm": "lixia",
+        "colorlist": [
+            {
+                "name": "qing can",
+                "cn_name": "青粲",
+                "pinyin": "Qīng Càn",
+                "hex": "#C3D94E",
+                "rgb": "RGB(195, 217, 78)",
+                "cmyk": "CMYK(30,0,80,0)"
+            },
+            {
+                "name": "cui piao",
+                "cn_name": "翠缥",
+                "pinyin": "Cuì Piāo",
+                "hex": "#B7D332",
+                "rgb": "RGB(183, 211, 50)",
+                "cmyk": "CMYK(35,0,90,0)"
+            },
+            {
+                "name": "ren lai",
+                "cn_name": "人籁",
+                "pinyin": "Rén Lài",
+                "hex": "#9EBC19",
+                "rgb": "RGB(158, 188, 25)",
+                "cmyk": "CMYK(45,10,100,0)"
+            },
+            {
+                "name": "shui long yin",
+                "cn_name": "水龙吟",
+                "pinyin": "Shuǐ Lóng Yín",
+                "hex": "#84A729",
+                "rgb": "RGB(132, 167, 41)",
+                "cmyk": "CMYK(55,20,100,0)"
+            },
+            {
+                "name": "di lai",
+                "cn_name": "地籁",
+                "pinyin": "Dì Lài",
+                "hex": "#DFCEB4",
+                "rgb": "RGB(223, 206, 180)",
+                "cmyk": "CMYK(15,20,30,0)"
+            },
+            {
+                "name": "da kuai",
+                "cn_name": "大块",
+                "pinyin": "Dà Kuài",
+                "hex": "#BFA782",
+                "rgb": "RGB(191, 167, 130)",
+                "cmyk": "CMYK(30,35,50,0)"
+            },
+            {
+                "name": "yang sheng zhu",
+                "cn_name": "养生主",
+                "pinyin": "Yǎng Shēng Zhǔ",
+                "hex": "#B49B7F",
+                "rgb": "RGB(180, 155, 127)",
+                "cmyk": "CMYK(35,40,50,0)"
+            },
+            {
+                "name": "da yun",
+                "cn_name": "大云",
+                "pinyin": "Dà Yún",
+                "hex": "#94784F",
+                "rgb": "RGB(148, 120, 79)",
+                "cmyk": "CMYK(50,55,75,0)"
+            },
+            {
+                "name": "rong rong yue",
+                "cn_name": "溶溶月",
+                "pinyin": "Róng Róng Yuè",
+                "hex": "#BEC2BC",
+                "rgb": "RGB(190, 194, 188)",
+                "cmyk": "CMYK(30,20,25,0)"
+            },
+            {
+                "name": "shao yi",
+                "cn_name": "绍衣",
+                "pinyin": "Shào Yī",
+                "hex": "#A8A19C",
+                "rgb": "RGB(168, 161, 156)",
+                "cmyk": "CMYK(40,35,35,0)"
+            },
+            {
+                "name": "shi lian he",
+                "cn_name": "石莲褐",
+                "pinyin": "Shí Lián Hè",
+                "hex": "#92897B",
+                "rgb": "RGB(146, 137, 123)",
+                "cmyk": "CMYK(50,45,50,0)"
+            },
+            {
+                "name": "hei zhu",
+                "cn_name": "黑朱",
+                "pinyin": "Hēi Zhū",
+                "hex": "#70695D",
+                "rgb": "RGB(112, 105, 93)",
+                "cmyk": "CMYK(65,60,65,0)"
+            },
+            {
+                "name": "zhu yan tuo",
+                "cn_name": "朱颜酡",
+                "pinyin": "Zhū Yán Tuó",
+                "hex": "#F29A76",
+                "rgb": "RGB(242, 154, 118)",
+                "cmyk": "CMYK(0,50,50,0)"
+            },
+            {
+                "name": "shao rong",
+                "cn_name": "苕荣",
+                "pinyin": "Sháo Róng",
+                "hex": "#ED6D3D",
+                "rgb": "RGB(237, 109, 61)",
+                "cmyk": "CMYK(0,70,75,0)"
+            },
+            {
+                "name": "qin dan",
+                "cn_name": "檎丹",
+                "pinyin": "Qín Dān",
+                "hex": "#E94829",
+                "rgb": "RGB(233, 72, 41)",
+                "cmyk": "CMYK(0,85,85,0)"
+            },
+            {
+                "name": "dan ji",
+                "cn_name": "丹罽",
+                "pinyin": "Dān Jì",
+                "hex": "#E60012",
+                "rgb": "RGB(230, 0, 18)",
+                "cmyk": "CMYK(0,100,100,0)"
+            }
+        ]
+    },
+    {
+        "solarterm": "xiaoman",
+        "colorlist": [
+            {
+                "name": "tong guan",
+                "cn_name": "彤管",
+                "pinyin": "Tóng Guǎn",
+                "hex": "#E2A2AC",
+                "rgb": "RGB(226, 162, 172)",
+                "cmyk": "CMYK(10,45,20,0)"
+            },
+            {
+                "name": "wo zhe",
+                "cn_name": "渥赭",
+                "pinyin": "Wò Zhě",
+                "hex": "#DD6B7B",
+                "rgb": "RGB(221, 107, 123)",
+                "cmyk": "CMYK(10,70,35,0)"
+            },
+            {
+                "name": "chun zhi",
+                "cn_name": "唇脂",
+                "pinyin": "Chún Zhī",
+                "hex": "#C25160",
+                "rgb": "RGB(194, 81, 96)",
+                "cmyk": "CMYK(25,80,50,0)"
+            },
+            {
+                "name": "zhu kong yang",
+                "cn_name": "朱孔阳",
+                "pinyin": "Zhū Kǒng Yáng",
+                "hex": "#B81A35",
+                "rgb": "RGB(184, 26, 53)",
+                "cmyk": "CMYK(30,100,80,0)"
+            },
+            {
+                "name": "shi fa",
+                "cn_name": "石发",
+                "pinyin": "Shí Fā",
+                "hex": "#6A8D52",
+                "rgb": "RGB(106, 141, 82)",
+                "cmyk": "CMYK(65,35,80,0)"
+            },
+            {
+                "name": "qi gu",
+                "cn_name": "漆姑",
+                "pinyin": "Qī Gū",
+                "hex": "#5D8351",
+                "rgb": "RGB(93, 131, 81)",
+                "cmyk": "CMYK(70,40,80,0)"
+            },
+            {
+                "name": "ji he",
+                "cn_name": "芰荷",
+                "pinyin": "Jì Hé",
+                "hex": "#4F794A",
+                "rgb": "RGB(79, 121, 74)",
+                "cmyk": "CMYK(75,45,85,0)"
+            },
+            {
+                "name": "guan lv",
+                "cn_name": "官绿",
+                "pinyin": "Guān Lǜ",
+                "hex": "#2A6E3F",
+                "rgb": "RGB(42, 110, 63)",
+                "cmyk": "CMYK(85,50,95,0)"
+            },
+            {
+                "name": "xian mi",
+                "cn_name": "仙米",
+                "pinyin": "Xiān Mǐ",
+                "hex": "#D4C9AA",
+                "rgb": "RGB(212, 201, 170)",
+                "cmyk": "CMYK(20,20,35,0)"
+            },
+            {
+                "name": "huang luo",
+                "cn_name": "黄螺",
+                "pinyin": "Huáng Luó",
+                "hex": "#B4A379",
+                "rgb": "RGB(180, 163, 121)",
+                "cmyk": "CMYK(35,35,55,0)"
+            },
+            {
+                "name": "jiang zhen xiang",
+                "cn_name": "降真香",
+                "pinyin": "Jiàng Zhēn Xiāng",
+                "hex": "#9E8358",
+                "rgb": "RGB(158, 131, 88)",
+                "cmyk": "CMYK(45,50,70,0)"
+            },
+            {
+                "name": "yuan zhi",
+                "cn_name": "远志",
+                "pinyin": "Yuǎn Zhì",
+                "hex": "#81663B",
+                "rgb": "RGB(129, 102, 59)",
+                "cmyk": "CMYK(55,60,85,10)"
+            },
+            {
+                "name": "nen e huang",
+                "cn_name": "嫩鹅黄",
+                "pinyin": "Nèn É Huáng",
+                "hex": "#F2C867",
+                "rgb": "RGB(242, 200, 103)",
+                "cmyk": "CMYK(5,25,65,0)"
+            },
+            {
+                "name": "ju yi",
+                "cn_name": "鞠衣",
+                "pinyin": "Jū Yī",
+                "hex": "#D3A237",
+                "rgb": "RGB(211, 162, 55)",
+                "cmyk": "CMYK(20,40,85,0)"
+            },
+            {
+                "name": "yu jin qun",
+                "cn_name": "郁金裙",
+                "pinyin": "Yù Jīn Qún",
+                "hex": "#D08635",
+                "rgb": "RGB(208, 134, 53)",
+                "cmyk": "CMYK(20,55,85,0)"
+            },
+            {
+                "name": "huang liu",
+                "cn_name": "黄流",
+                "pinyin": "Huáng Liú",
+                "hex": "#9F6027",
+                "rgb": "RGB(159, 96, 39)",
+                "cmyk": "CMYK(45,70,100,0)"
+            }
+        ]
+    },
+    {
+        "solarterm": "mangzhong",
+        "colorlist": [
+            {
+                "name": "yun wu",
+                "cn_name": "筠雾",
+                "pinyin": "Yún Wù",
+                "hex": "#D5D1AE",
+                "rgb": "RGB(213, 209, 174)",
+                "cmyk": "CMYK(20,15,35,0)"
+            },
+            {
+                "name": "ci mi",
+                "cn_name": "瓷秘",
+                "pinyin": "Cí Mì",
+                "hex": "#BFC096",
+                "rgb": "RGB(191, 192, 150)",
+                "cmyk": "CMYK(30,20,45,0)"
+            },
+            {
+                "name": "wan yan",
+                "cn_name": "琬琰",
+                "pinyin": "Wǎn Yǎn",
+                "hex": "#A9A886",
+                "rgb": "RGB(169, 168, 134)",
+                "cmyk": "CMYK(40,30,50,0)"
+            },
+            {
+                "name": "qing gui",
+                "cn_name": "青圭",
+                "pinyin": "Qīng Guī",
+                "hex": "#92905D",
+                "rgb": "RGB(146, 144, 93)",
+                "cmyk": "CMYK(50,40,70,0)"
+            },
+            {
+                "name": "ming ke",
+                "cn_name": "鸣珂",
+                "pinyin": "Míng Kē",
+                "hex": "#B3B59C",
+                "rgb": "RGB(179, 181, 156)",
+                "cmyk": "CMYK(35,25,40,0)"
+            },
+            {
+                "name": "qing yu an",
+                "cn_name": "青玉案",
+                "pinyin": "Qīng Yù Àn",
+                "hex": "#A8B092",
+                "rgb": "RGB(168, 176, 146)",
+                "cmyk": "CMYK(40,25,45,0)"
+            },
+            {
+                "name": "chu xiu",
+                "cn_name": "出岫",
+                "pinyin": "Chū Xiù",
+                "hex": "#A9A773",
+                "rgb": "RGB(169, 167, 115)",
+                "cmyk": "CMYK(40,30,60,0)"
+            },
+            {
+                "name": "feng ru song",
+                "cn_name": "风入松",
+                "pinyin": "Fēng Rù Sōng",
+                "hex": "#868C4E",
+                "rgb": "RGB(134, 140, 78)",
+                "cmyk": "CMYK(55,40,80,0)"
+            },
+            {
+                "name": "ru meng ling",
+                "cn_name": "如梦令",
+                "pinyin": "Rú Mèng Lìng",
+                "hex": "#DDBB99",
+                "rgb": "RGB(221, 187, 153)",
+                "cmyk": "CMYK(15,30,40,0)"
+            },
+            {
+                "name": "yun huang",
+                "cn_name": "芸黄",
+                "pinyin": "Yún Huáng",
+                "hex": "#D2A36C",
+                "rgb": "RGB(210, 163, 108)",
+                "cmyk": "CMYK(20,40,60,0)"
+            },
+            {
+                "name": "jin lie",
+                "cn_name": "金埒",
+                "pinyin": "Jīn Liè",
+                "hex": "#BE9457",
+                "rgb": "RGB(190, 148, 87)",
+                "cmyk": "CMYK(30,45,70,0)"
+            },
+            {
+                "name": "ci huang",
+                "cn_name": "雌黄",
+                "pinyin": "Cí Huáng",
+                "hex": "#B4884D",
+                "rgb": "RGB(180, 136, 77)",
+                "cmyk": "CMYK(35,50,75,0)"
+            },
+            {
+                "name": "ceng qing",
+                "cn_name": "曾青",
+                "pinyin": "Céng Qīng",
+                "hex": "#535164",
+                "rgb": "RGB(83, 81, 100)",
+                "cmyk": "CMYK(75,70,50,10)"
+            },
+            {
+                "name": "ming qing",
+                "cn_name": "䒌靘",
+                "pinyin": "Mìng Qìng",
+                "hex": "#454659",
+                "rgb": "RGB(69, 70, 89)",
+                "cmyk": "CMYK(80,75,55,15)"
+            },
+            {
+                "name": "qiu lin",
+                "cn_name": "璆琳",
+                "pinyin": "Qiú Lín",
+                "hex": "#343041",
+                "rgb": "RGB(52, 48, 65)",
+                "cmyk": "CMYK(85,85,65,30)"
+            },
+            {
+                "name": "jin yu",
+                "cn_name": "瑾瑜",
+                "pinyin": "Jǐn Yú",
+                "hex": "#1E2732",
+                "rgb": "RGB(30, 39, 50)",
+                "cmyk": "CMYK(90,85,70,45)"
+            }
+        ]
+    },
+    {
+        "solarterm": "xiazhi",
+        "colorlist": [
+            {
+                "name": "xi chi",
+                "cn_name": "赩炽",
+                "pinyin": "Xì Chì",
+                "hex": "#CB523E",
+                "rgb": "RGB(203, 82, 62)",
+                "cmyk": "CMYK(20,80,75,0)"
+            },
+            {
+                "name": "shi liu qun",
+                "cn_name": "石榴裙",
+                "pinyin": "Shí Liú Qún",
+                "hex": "#B13B2E",
+                "rgb": "RGB(177, 59, 46)",
+                "cmyk": "CMYK(35,90,90,0)"
+            },
+            {
+                "name": "zhu zhan",
+                "cn_name": "朱湛",
+                "pinyin": "Zhū Zhàn",
+                "hex": "#95302E",
+                "rgb": "RGB(149, 48, 46)",
+                "cmyk": "CMYK(50,95,95,0)"
+            },
+            {
+                "name": "da ran",
+                "cn_name": "大繎",
+                "pinyin": "Dà Rán",
+                "hex": "#822327",
+                "rgb": "RGB(130, 35, 39)",
+                "cmyk": "CMYK(55,100,100,10)"
+            },
+            {
+                "name": "yue po",
+                "cn_name": "月魄",
+                "pinyin": "Yuè Pò",
+                "hex": "#B2B6B6",
+                "rgb": "RGB(178, 182, 182)",
+                "cmyk": "CMYK(35,25,25,0)"
+            },
+            {
+                "name": "bu zao",
+                "cn_name": "不皂",
+                "pinyin": "Bù Zào",
+                "hex": "#A7AAA1",
+                "rgb": "RGB(167, 170, 161)",
+                "cmyk": "CMYK(40,30,35,0)"
+            },
+            {
+                "name": "lei yu chui",
+                "cn_name": "雷雨垂",
+                "pinyin": "Léi Yǔ Chuí",
+                "hex": "#7A7B78",
+                "rgb": "RGB(122, 123, 120)",
+                "cmyk": "CMYK(60,50,50,0)"
+            },
+            {
+                "name": "shi nie",
+                "cn_name": "石涅",
+                "pinyin": "Shí Niè",
+                "hex": "#686A67",
+                "rgb": "RGB(104, 106, 103)",
+                "cmyk": "CMYK(65,55,55,10)"
+            },
+            {
+                "name": "fu guang",
+                "cn_name": "扶光",
+                "pinyin": "Fú Guāng",
+                "hex": "#F0C2A2",
+                "rgb": "RGB(240, 194, 162)",
+                "cmyk": "CMYK(5,30,35,0)"
+            },
+            {
+                "name": "jiao fang",
+                "cn_name": "椒房",
+                "pinyin": "Jiāo Fáng",
+                "hex": "#DB9C5E",
+                "rgb": "RGB(219, 156, 94)",
+                "cmyk": "CMYK(15,45,65,0)"
+            },
+            {
+                "name": "hong you",
+                "cn_name": "红友",
+                "pinyin": "Hóng Yǒu",
+                "hex": "#D9883D",
+                "rgb": "RGB(217, 136, 61)",
+                "cmyk": "CMYK(15,55,80,0)"
+            },
+            {
+                "name": "guang ming sha",
+                "cn_name": "光明砂",
+                "pinyin": "Guāng Míng Shā",
+                "hex": "#CC5D20",
+                "rgb": "RGB(204, 93, 32)",
+                "cmyk": "CMYK(20,75,95,0)"
+            },
+            {
+                "name": "shan fan",
+                "cn_name": "山矾",
+                "pinyin": "Shān Fán",
+                "hex": "#F5F3F2",
+                "rgb": "RGB(245, 243, 242)",
+                "cmyk": "CMYK(5,5,5,0)"
+            },
+            {
+                "name": "yu ping",
+                "cn_name": "玉頩",
+                "pinyin": "Yù Pīng",
+                "hex": "#EAE5E3",
+                "rgb": "RGB(234, 229, 227)",
+                "cmyk": "CMYK(10,10,10,0)"
+            },
+            {
+                "name": "er mu yu",
+                "cn_name": "二目鱼",
+                "pinyin": "Èr Mù Yú",
+                "hex": "#DFE0D9",
+                "rgb": "RGB(223, 224, 217)",
+                "cmyk": "CMYK(15,10,15,0)"
+            },
+            {
+                "name": "ming yue dang",
+                "cn_name": "明月珰",
+                "pinyin": "Míng Yuè Dāng",
+                "hex": "#D4D3CA",
+                "rgb": "RGB(212, 211, 202)",
+                "cmyk": "CMYK(20,15,20,0)"
+            }
+        ]
+    },
+    {
+        "solarterm": "xiaoshu",
+        "colorlist": [
+            {
+                "name": "xing gang",
+                "cn_name": "骍刚",
+                "pinyin": "Xīng Gāng",
+                "hex": "#F5B087",
+                "rgb": "RGB(245, 176, 135)",
+                "cmyk": "CMYK(0,40,45,0)"
+            },
+            {
+                "name": "cheng xia",
+                "cn_name": "赪霞",
+                "pinyin": "Chēng Xiá",
+                "hex": "#F18F60",
+                "rgb": "RGB(241, 143, 96)",
+                "cmyk": "CMYK(0,55,60,0)"
+            },
+            {
+                "name": "cheng wei",
+                "cn_name": "赪尾",
+                "pinyin": "Chēng Wěi",
+                "hex": "#EF845D",
+                "rgb": "RGB(239, 132, 93)",
+                "cmyk": "CMYK(0,60,60,0)"
+            },
+            {
+                "name": "zhu shi",
+                "cn_name": "朱柿",
+                "pinyin": "Zhū Shì",
+                "hex": "#ED6D46",
+                "rgb": "RGB(237, 109, 70)",
+                "cmyk": "CMYK(0,70,70,0)"
+            },
+            {
+                "name": "tian qiu",
+                "cn_name": "天球",
+                "pinyin": "Tiān Qiú",
+                "hex": "#E0DFC6",
+                "rgb": "RGB(224, 223, 198)",
+                "cmyk": "CMYK(15,10,25,0)"
+            },
+            {
+                "name": "xing xiang zi",
+                "cn_name": "行香子",
+                "pinyin": "Xíng Xiāng Zi",
+                "hex": "#BFB99C",
+                "rgb": "RGB(191, 185, 156)",
+                "cmyk": "CMYK(30,25,40,0)"
+            },
+            {
+                "name": "wang chu",
+                "cn_name": "王刍",
+                "pinyin": "Wáng Chú",
+                "hex": "#A99F70",
+                "rgb": "RGB(169, 159, 112)",
+                "cmyk": "CMYK(40,35,60,0)"
+            },
+            {
+                "name": "jin qie",
+                "cn_name": "荩箧",
+                "pinyin": "Jìn Qiè",
+                "hex": "#877D52",
+                "rgb": "RGB(135, 125, 82)",
+                "cmyk": "CMYK(55,50,75,0)"
+            },
+            {
+                "name": "chi ling",
+                "cn_name": "赤灵",
+                "pinyin": "Chì Líng",
+                "hex": "#954024",
+                "rgb": "RGB(149, 64, 36)",
+                "cmyk": "CMYK(45,85,100,10)"
+            },
+            {
+                "name": "dan shu",
+                "cn_name": "丹秫",
+                "pinyin": "Dān Shú",
+                "hex": "#873424",
+                "rgb": "RGB(135, 52, 36)",
+                "cmyk": "CMYK(50,90,100,15)"
+            },
+            {
+                "name": "mu lan",
+                "cn_name": "木兰",
+                "pinyin": "Mù Lán",
+                "hex": "#662B1F",
+                "rgb": "RGB(102, 43, 31)",
+                "cmyk": "CMYK(60,90,100,30)"
+            },
+            {
+                "name": "qi lin jie",
+                "cn_name": "麒麟竭",
+                "pinyin": "Qí Lín Jié",
+                "hex": "#4C1E1A",
+                "rgb": "RGB(76, 30, 26)",
+                "cmyk": "CMYK(70,95,100,40)"
+            },
+            {
+                "name": "rou lan",
+                "cn_name": "柔蓝",
+                "pinyin": "Róu Lán",
+                "hex": "#106898",
+                "rgb": "RGB(16, 104, 152)",
+                "cmyk": "CMYK(85,50,20,10)"
+            },
+            {
+                "name": "bi cheng",
+                "cn_name": "碧城",
+                "pinyin": "Bì Chéng",
+                "hex": "#12507B",
+                "rgb": "RGB(18, 80, 123)",
+                "cmyk": "CMYK(90,65,30,15)"
+            },
+            {
+                "name": "lan cai he",
+                "cn_name": "蓝采和",
+                "pinyin": "Lán Cǎi Hé",
+                "hex": "#06436F",
+                "rgb": "RGB(6, 67, 111)",
+                "cmyk": "CMYK(95,75,35,15)"
+            },
+            {
+                "name": "di shi qing",
+                "cn_name": "帝释青",
+                "pinyin": "Dì Shì Qīng",
+                "hex": "#003460",
+                "rgb": "RGB(0, 52, 96)",
+                "cmyk": "CMYK(100,85,40,20)"
+            }
+        ]
+    },
+    {
+        "solarterm": "dashu",
+        "colorlist": [
+            {
+                "name": "xi lan",
+                "cn_name": "夕岚",
+                "pinyin": "Xī Lán",
+                "hex": "#E3ADB9",
+                "rgb": "RGB(227, 173, 185)",
+                "cmyk": "CMYK(10,40,15,0)"
+            },
+            {
+                "name": "ci ni",
+                "cn_name": "雌霓",
+                "pinyin": "Cí Ní",
+                "hex": "#CF929E",
+                "rgb": "RGB(207, 146, 158)",
+                "cmyk": "CMYK(20,50,25,0)"
+            },
+            {
+                "name": "jiang sha",
+                "cn_name": "绛纱",
+                "pinyin": "Jiàng Shā",
+                "hex": "#B27777",
+                "rgb": "RGB(178, 119, 119)",
+                "cmyk": "CMYK(35,60,45,0)"
+            },
+            {
+                "name": "ru lv",
+                "cn_name": "茹藘",
+                "pinyin": "Rú Lǘ",
+                "hex": "#A35F65",
+                "rgb": "RGB(163, 95, 101)",
+                "cmyk": "CMYK(40,70,50,5)"
+            },
+            {
+                "name": "cong qing",
+                "cn_name": "葱青",
+                "pinyin": "Cōng Qīng",
+                "hex": "#EDF1BB",
+                "rgb": "RGB(237, 241, 187)",
+                "cmyk": "CMYK(10,0,35,0)"
+            },
+            {
+                "name": "shao ai",
+                "cn_name": "少艾",
+                "pinyin": "Shǎo Ài",
+                "hex": "#E3EB98",
+                "rgb": "RGB(227, 235, 152)",
+                "cmyk": "CMYK(15,0,50,0)"
+            },
+            {
+                "name": "qi qian",
+                "cn_name": "绮钱",
+                "pinyin": "Qǐ Qián",
+                "hex": "#D8DE8A",
+                "rgb": "RGB(216, 222, 138)",
+                "cmyk": "CMYK(20,5,55,0)"
+            },
+            {
+                "name": "cui zun",
+                "cn_name": "翠樽",
+                "pinyin": "Cuì Zūn",
+                "hex": "#CDD171",
+                "rgb": "RGB(205, 209, 113)",
+                "cmyk": "CMYK(25,10,65,0)"
+            },
+            {
+                "name": "shi mi",
+                "cn_name": "石蜜",
+                "pinyin": "Shí Mì",
+                "hex": "#D4BF89",
+                "rgb": "RGB(212, 191, 137)",
+                "cmyk": "CMYK(20,25,50,0)"
+            },
+            {
+                "name": "sha tang",
+                "cn_name": "沙饧",
+                "pinyin": "Shā Táng",
+                "hex": "#BFA670",
+                "rgb": "RGB(191, 166, 112)",
+                "cmyk": "CMYK(30,35,60,0)"
+            },
+            {
+                "name": "ju lv",
+                "cn_name": "巨吕",
+                "pinyin": "Jù Lǚ",
+                "hex": "#AA8E59",
+                "rgb": "RGB(170, 142, 89)",
+                "cmyk": "CMYK(40,45,70,0)"
+            },
+            {
+                "name": "ji jin",
+                "cn_name": "吉金",
+                "pinyin": "Jí Jīn",
+                "hex": "#896D47",
+                "rgb": "RGB(137, 109, 71)",
+                "cmyk": "CMYK(55,60,80,0)"
+            },
+            {
+                "name": "shan lan",
+                "cn_name": "山岚",
+                "pinyin": "Shān Lán",
+                "hex": "#BED2BB",
+                "rgb": "RGB(190, 210, 187)",
+                "cmyk": "CMYK(30,10,30,0)"
+            },
+            {
+                "name": "lu bo",
+                "cn_name": "渌波",
+                "pinyin": "Lù Bō",
+                "hex": "#9BB496",
+                "rgb": "RGB(155, 180, 150)",
+                "cmyk": "CMYK(45,20,45,0)"
+            },
+            {
+                "name": "qing qiu",
+                "cn_name": "青楸",
+                "pinyin": "Qīng Qiū",
+                "hex": "#81A380",
+                "rgb": "RGB(129, 163, 128)",
+                "cmyk": "CMYK(55,25,55,0)"
+            },
+            {
+                "name": "lu zhu",
+                "cn_name": "菉竹",
+                "pinyin": "Lù Zhú",
+                "hex": "#698E6A",
+                "rgb": "RGB(105, 142, 106)",
+                "cmyk": "CMYK(65,35,65,0)"
+            }
+        ]
+    },
+    {
+        "solarterm": "liqiu",
+        "colorlist": [
+            {
+                "name": "qie lan",
+                "cn_name": "窃蓝",
+                "pinyin": "Qiè Lán",
+                "hex": "#88ABDA",
+                "rgb": "RGB(136, 171, 218)",
+                "cmyk": "CMYK(50,25,0,0)"
+            },
+            {
+                "name": "jian de",
+                "cn_name": "监德",
+                "pinyin": "Jiān Dé",
+                "hex": "#6F94CD",
+                "rgb": "RGB(111, 148, 205)",
+                "cmyk": "CMYK(60,35,0,0)"
+            },
+            {
+                "name": "cang cang",
+                "cn_name": "苍苍",
+                "pinyin": "Cāng Cāng",
+                "hex": "#5976BA",
+                "rgb": "RGB(89, 118, 186)",
+                "cmyk": "CMYK(70,50,0,0)"
+            },
+            {
+                "name": "qun qing",
+                "cn_name": "群青",
+                "pinyin": "Qún Qīng",
+                "hex": "#2E59A7",
+                "rgb": "RGB(46, 89, 167)",
+                "cmyk": "CMYK(85,65,0,0)"
+            },
+            {
+                "name": "bai qing",
+                "cn_name": "白青",
+                "pinyin": "Bái Qīng",
+                "hex": "#98B6C2",
+                "rgb": "RGB(152, 182, 194)",
+                "cmyk": "CMYK(45,20,20,0)"
+            },
+            {
+                "name": "zhu yue",
+                "cn_name": "竹月",
+                "pinyin": "Zhú Yuè",
+                "hex": "#7F9FAF",
+                "rgb": "RGB(127, 159, 175)",
+                "cmyk": "CMYK(55,30,25,0)"
+            },
+            {
+                "name": "kong qing",
+                "cn_name": "空青",
+                "pinyin": "Kōng Qīng",
+                "hex": "#66889E",
+                "rgb": "RGB(102, 136, 158)",
+                "cmyk": "CMYK(65,40,30,0)"
+            },
+            {
+                "name": "tai shi qing",
+                "cn_name": "太师青",
+                "pinyin": "Tài Shī Qīng",
+                "hex": "#547689",
+                "rgb": "RGB(84, 118, 137)",
+                "cmyk": "CMYK(70,45,35,10)"
+            },
+            {
+                "name": "gao yu",
+                "cn_name": "缟羽",
+                "pinyin": "Gǎo Yǔ",
+                "hex": "#EFEFEF",
+                "rgb": "RGB(239, 239, 239)",
+                "cmyk": "CMYK(0,0,0,10)"
+            },
+            {
+                "name": "xiang pi",
+                "cn_name": "香皮",
+                "pinyin": "Xiāng Pí",
+                "hex": "#D8D1C5",
+                "rgb": "RGB(216, 209, 197)",
+                "cmyk": "CMYK(15,15,20,5)"
+            },
+            {
+                "name": "yun mu",
+                "cn_name": "云母",
+                "pinyin": "Yún Mǔ",
+                "hex": "#C6BEB1",
+                "rgb": "RGB(198, 190, 177)",
+                "cmyk": "CMYK(20,20,25,10)"
+            },
+            {
+                "name": "pei jiu",
+                "cn_name": "佩玖",
+                "pinyin": "Pèi Jiǔ",
+                "hex": "#AC9F8A",
+                "rgb": "RGB(172, 159, 138)",
+                "cmyk": "CMYK(30,30,40,15)"
+            },
+            {
+                "name": "qu chen",
+                "cn_name": "麹尘",
+                "pinyin": "Qū Chén",
+                "hex": "#C0D09D",
+                "rgb": "RGB(192, 208, 157)",
+                "cmyk": "CMYK(30,10,45,0)"
+            },
+            {
+                "name": "lv shen",
+                "cn_name": "绿沈",
+                "pinyin": "Lǜ Shěn",
+                "hex": "#938F4C",
+                "rgb": "RGB(147, 143, 76)",
+                "cmyk": "CMYK(50,40,80,0)"
+            },
+            {
+                "name": "jiao yi",
+                "cn_name": "绞衣",
+                "pinyin": "Jiǎo Yī",
+                "hex": "#7F754C",
+                "rgb": "RGB(127, 117, 76)",
+                "cmyk": "CMYK(55,50,75,10)"
+            },
+            {
+                "name": "su qi",
+                "cn_name": "素綦",
+                "pinyin": "Sù Qí",
+                "hex": "#595333",
+                "rgb": "RGB(89, 83, 51)",
+                "cmyk": "CMYK(70,65,90,20)"
+            }
+        ]
+    },
+    {
+        "solarterm": "chushu",
+        "colorlist": [
+            {
+                "name": "tui hong",
+                "cn_name": "退红",
+                "pinyin": "Tuì Hóng",
+                "hex": "#F0CFE3",
+                "rgb": "RGB(240, 207, 227)",
+                "cmyk": "CMYK(5,25,0,0)"
+            },
+            {
+                "name": "ying hua",
+                "cn_name": "樱花",
+                "pinyin": "Yīng Huā",
+                "hex": "#E4B8D5",
+                "rgb": "RGB(228, 184, 213)",
+                "cmyk": "CMYK(10,35,0,0)"
+            },
+            {
+                "name": "ding xiang",
+                "cn_name": "丁香",
+                "pinyin": "Dīng Xiāng",
+                "hex": "#CE93BF",
+                "rgb": "RGB(206, 147, 191)",
+                "cmyk": "CMYK(20,50,0,0)"
+            },
+            {
+                "name": "mu jin",
+                "cn_name": "木槿",
+                "pinyin": "Mù Jǐn",
+                "hex": "#BA79B1",
+                "rgb": "RGB(186, 121, 177)",
+                "cmyk": "CMYK(30,60,0,0)"
+            },
+            {
+                "name": "yu bai",
+                "cn_name": "余白",
+                "pinyin": "Yú Bái",
+                "hex": "#C9CFC1",
+                "rgb": "RGB(201, 207, 193)",
+                "cmyk": "CMYK(25,15,25,0)"
+            },
+            {
+                "name": "lan shao",
+                "cn_name": "兰苕",
+                "pinyin": "Lán Sháo",
+                "hex": "#A8B78C",
+                "rgb": "RGB(168, 183, 140)",
+                "cmyk": "CMYK(40,20,50,0)"
+            },
+            {
+                "name": "bi zi",
+                "cn_name": "碧滋",
+                "pinyin": "Bì Zī",
+                "hex": "#90A07D",
+                "rgb": "RGB(144, 160, 125)",
+                "cmyk": "CMYK(50,30,55,0)"
+            },
+            {
+                "name": "cong qian",
+                "cn_name": "葱倩",
+                "pinyin": "Cōng Qiàn",
+                "hex": "#6C8650",
+                "rgb": "RGB(108, 134, 80)",
+                "cmyk": "CMYK(65,40,80,0)"
+            },
+            {
+                "name": "yun men",
+                "cn_name": "云门",
+                "pinyin": "Yún Mén",
+                "hex": "#A2D2E2",
+                "rgb": "RGB(162, 210, 226)",
+                "cmyk": "CMYK(40,5,10,0)"
+            },
+            {
+                "name": "xi zi",
+                "cn_name": "西子",
+                "pinyin": "Xī Zi",
+                "hex": "#87C0CA",
+                "rgb": "RGB(135, 192, 202)",
+                "cmyk": "CMYK(50,10,20,0)"
+            },
+            {
+                "name": "tian shui bi",
+                "cn_name": "天水碧",
+                "pinyin": "Tiān Shuǐ Bì",
+                "hex": "#5AA4AE",
+                "rgb": "RGB(90, 164, 174)",
+                "cmyk": "CMYK(65,20,30,0)"
+            },
+            {
+                "name": "fa cui",
+                "cn_name": "法翠",
+                "pinyin": "Fǎ Cuì",
+                "hex": "#108B96",
+                "rgb": "RGB(16, 139, 150)",
+                "cmyk": "CMYK(80,30,40,0)"
+            },
+            {
+                "name": "sang lei",
+                "cn_name": "桑蕾",
+                "pinyin": "Sāng Lěi",
+                "hex": "#EAD89A",
+                "rgb": "RGB(234, 216, 154)",
+                "cmyk": "CMYK(10,15,45,0)"
+            },
+            {
+                "name": "tai yi yu liang",
+                "cn_name": "太一余粮",
+                "pinyin": "Tài Yī Yú Liáng",
+                "hex": "#D5B45C",
+                "rgb": "RGB(213, 180, 92)",
+                "cmyk": "CMYK(20,30,70,0)"
+            },
+            {
+                "name": "qiu xiang",
+                "cn_name": "秋香",
+                "pinyin": "Qiū Xiāng",
+                "hex": "#BF9C46",
+                "rgb": "RGB(191, 156, 70)",
+                "cmyk": "CMYK(30,40,80,0)"
+            },
+            {
+                "name": "lao fu shen",
+                "cn_name": "老茯神",
+                "pinyin": "Lǎo Fú Shén",
+                "hex": "#AA8534",
+                "rgb": "RGB(170, 133, 52)",
+                "cmyk": "CMYK(40,50,90,0)"
+            }
+        ]
+    },
+    {
+        "solarterm": "bailu",
+        "colorlist": [
+            {
+                "name": "ning zhi",
+                "cn_name": "凝脂",
+                "pinyin": "Níng Zhī",
+                "hex": "#F5F2E9",
+                "rgb": "RGB(245, 242, 233)",
+                "cmyk": "CMYK(5,5,10,0)"
+            },
+            {
+                "name": "yu se",
+                "cn_name": "玉色",
+                "pinyin": "Yù Sè",
+                "hex": "#EAE4D1",
+                "rgb": "RGB(234, 228, 209)",
+                "cmyk": "CMYK(10,10,20,0)"
+            },
+            {
+                "name": "huang run",
+                "cn_name": "黄润",
+                "pinyin": "Huáng Rùn",
+                "hex": "#DFD6B8",
+                "rgb": "RGB(223, 214, 184)",
+                "cmyk": "CMYK(15,15,30,0)"
+            },
+            {
+                "name": "jian xiang",
+                "cn_name": "缣缃",
+                "pinyin": "Jiān Xiāng",
+                "hex": "#D5C8A0",
+                "rgb": "RGB(213, 200, 160)",
+                "cmyk": "CMYK(20,20,40,0)"
+            },
+            {
+                "name": "jiao yue",
+                "cn_name": "蕉月",
+                "pinyin": "Jiāo Yuè",
+                "hex": "#86908A",
+                "rgb": "RGB(134, 144, 138)",
+                "cmyk": "CMYK(50,35,40,10)"
+            },
+            {
+                "name": "qian shan cui",
+                "cn_name": "千山翠",
+                "pinyin": "Qiān Shān Cuì",
+                "hex": "#6B7D73",
+                "rgb": "RGB(107, 125, 115)",
+                "cmyk": "CMYK(60,40,50,15)"
+            },
+            {
+                "name": "jie lv",
+                "cn_name": "结绿",
+                "pinyin": "Jié Lǜ",
+                "hex": "#555F4D",
+                "rgb": "RGB(85, 95, 77)",
+                "cmyk": "CMYK(70,55,70,20)"
+            },
+            {
+                "name": "lv yun",
+                "cn_name": "绿云",
+                "pinyin": "Lǜ Yún",
+                "hex": "#45493D",
+                "rgb": "RGB(69, 73, 61)",
+                "cmyk": "CMYK(75,65,75,30)"
+            },
+            {
+                "name": "ou si qiu ban",
+                "cn_name": "藕丝秋半",
+                "pinyin": "Ǒu Sī Qiū Bàn",
+                "hex": "#D3CBC5",
+                "rgb": "RGB(211, 203, 197)",
+                "cmyk": "CMYK(20,20,20,0)"
+            },
+            {
+                "name": "cang yan luo zhao",
+                "cn_name": "苍烟落照",
+                "pinyin": "Cāng Yān Luò Zhào",
+                "hex": "#C8B5B3",
+                "rgb": "RGB(200, 181, 179)",
+                "cmyk": "CMYK(25,30,25,0)"
+            },
+            {
+                "name": "hong teng zhang",
+                "cn_name": "红藤杖",
+                "pinyin": "Hóng Téng Zhàng",
+                "hex": "#928187",
+                "rgb": "RGB(146, 129, 135)",
+                "cmyk": "CMYK(50,50,40,0)"
+            },
+            {
+                "name": "zi shu",
+                "cn_name": "紫鼠",
+                "pinyin": "Zǐ Shǔ",
+                "hex": "#594C57",
+                "rgb": "RGB(89, 76, 87)",
+                "cmyk": "CMYK(65,65,50,30)"
+            },
+            {
+                "name": "huang liang",
+                "cn_name": "黄粱",
+                "pinyin": "Huáng Liáng",
+                "hex": "#C4B798",
+                "rgb": "RGB(196, 183, 152)",
+                "cmyk": "CMYK(25,25,40,5)"
+            },
+            {
+                "name": "zheng li",
+                "cn_name": "蒸栗",
+                "pinyin": "Zhēng Lì",
+                "hex": "#A58A5F",
+                "rgb": "RGB(165, 138, 95)",
+                "cmyk": "CMYK(40,45,65,5)"
+            },
+            {
+                "name": "ye gan",
+                "cn_name": "射干",
+                "pinyin": "Yè Gàn",
+                "hex": "#7C623F",
+                "rgb": "RGB(124, 98, 63)",
+                "cmyk": "CMYK(55,60,80,15)"
+            },
+            {
+                "name": "you hu lu",
+                "cn_name": "油葫芦",
+                "pinyin": "Yóu Hú Lú",
+                "hex": "#644D31",
+                "rgb": "RGB(100, 77, 49)",
+                "cmyk": "CMYK(65,70,90,20)"
+            }
+        ]
+    },
+    {
+        "solarterm": "qiufen",
+        "colorlist": [
+            {
+                "name": "luan se",
+                "cn_name": "卵色",
+                "pinyin": "Luǎn Sè",
+                "hex": "#D5E3D4",
+                "rgb": "RGB(213, 227, 212)",
+                "cmyk": "CMYK(20,5,20,0)"
+            },
+            {
+                "name": "jia tan",
+                "cn_name": "葭菼",
+                "pinyin": "Jiā Tǎn",
+                "hex": "#CAD7C5",
+                "rgb": "RGB(202, 215, 197)",
+                "cmyk": "CMYK(25,10,25,0)"
+            },
+            {
+                "name": "bing tai",
+                "cn_name": "冰台",
+                "pinyin": "Bīng Tái",
+                "hex": "#BECAB7",
+                "rgb": "RGB(190, 202, 183)",
+                "cmyk": "CMYK(30,15,30,0)"
+            },
+            {
+                "name": "qing gu",
+                "cn_name": "青古",
+                "pinyin": "Qīng Gǔ",
+                "hex": "#B3BDA9",
+                "rgb": "RGB(179, 189, 169)",
+                "cmyk": "CMYK(35,20,35,0)"
+            },
+            {
+                "name": "luan hua",
+                "cn_name": "栾华",
+                "pinyin": "Luán Huá",
+                "hex": "#C0AD5E",
+                "rgb": "RGB(192, 173, 94)",
+                "cmyk": "CMYK(30,30,70,0)"
+            },
+            {
+                "name": "da chi",
+                "cn_name": "大赤",
+                "pinyin": "Dà Chì",
+                "hex": "#AA9649",
+                "rgb": "RGB(170, 150, 73)",
+                "cmyk": "CMYK(40,40,80,0)"
+            },
+            {
+                "name": "fu chi",
+                "cn_name": "佛赤",
+                "pinyin": "Fú Chì",
+                "hex": "#8F3D2C",
+                "rgb": "RGB(143, 61, 44)",
+                "cmyk": "CMYK(45,85,90,15)"
+            },
+            {
+                "name": "mi he",
+                "cn_name": "蜜褐",
+                "pinyin": "Mì Hè",
+                "hex": "#683632",
+                "rgb": "RGB(104, 54, 50)",
+                "cmyk": "CMYK(55,80,75,35)"
+            },
+            {
+                "name": "kong que lan",
+                "cn_name": "孔雀蓝",
+                "pinyin": "Kǒng Què Lán",
+                "hex": "#4994C4",
+                "rgb": "RGB(73, 148, 196)",
+                "cmyk": "CMYK(70,30,10,0)"
+            },
+            {
+                "name": "tu shou lan",
+                "cn_name": "吐绶蓝",
+                "pinyin": "Tǔ Shòu Lán",
+                "hex": "#4182A4",
+                "rgb": "RGB(65, 130, 164)",
+                "cmyk": "CMYK(75,40,25,0)"
+            },
+            {
+                "name": "yu shi qing",
+                "cn_name": "鱼师青",
+                "pinyin": "Yú Shī Qīng",
+                "hex": "#32788A",
+                "rgb": "RGB(50, 120, 138)",
+                "cmyk": "CMYK(80,45,40,0)"
+            },
+            {
+                "name": "ruan cui",
+                "cn_name": "软翠",
+                "pinyin": "Ruǎn Cuì",
+                "hex": "#006D87",
+                "rgb": "RGB(0, 109, 135)",
+                "cmyk": "CMYK(90,50,40,0)"
+            },
+            {
+                "name": "qian yun",
+                "cn_name": "浅云",
+                "pinyin": "Qiǎn Yún",
+                "hex": "#EAEEF1",
+                "rgb": "RGB(234, 238, 241)",
+                "cmyk": "CMYK(10,5,5,0)"
+            },
+            {
+                "name": "su cai",
+                "cn_name": "素采",
+                "pinyin": "Sù Cǎi",
+                "hex": "#D4DDE1",
+                "rgb": "RGB(212, 221, 225)",
+                "cmyk": "CMYK(20,10,10,0)"
+            },
+            {
+                "name": "ying qing",
+                "cn_name": "影青",
+                "pinyin": "Yǐng Qīng",
+                "hex": "#BDCBD2",
+                "rgb": "RGB(189, 203, 210)",
+                "cmyk": "CMYK(30,15,15,0)"
+            },
+            {
+                "name": "xiao yao you",
+                "cn_name": "逍遥游",
+                "pinyin": "Xiāo Yáo Yóu",
+                "hex": "#B2BFC3",
+                "rgb": "RGB(178, 191, 195)",
+                "cmyk": "CMYK(35,20,20,0)"
+            }
+        ]
+    },
+    {
+        "solarterm": "hanlu",
+        "colorlist": [
+            {
+                "name": "ling lu",
+                "cn_name": "醽醁",
+                "pinyin": "Líng Lù",
+                "hex": "#A6BAB1",
+                "rgb": "RGB(166, 186, 177)",
+                "cmyk": "CMYK(40,20,30,0)"
+            },
+            {
+                "name": "cui tao",
+                "cn_name": "翠涛",
+                "pinyin": "Cuì Tāo",
+                "hex": "#819D8E",
+                "rgb": "RGB(129, 157, 142)",
+                "cmyk": "CMYK(55,30,45,0)"
+            },
+            {
+                "name": "qing mei",
+                "cn_name": "青梅",
+                "pinyin": "Qīng Méi",
+                "hex": "#778A77",
+                "rgb": "RGB(119, 138, 119)",
+                "cmyk": "CMYK(60,40,55,0)"
+            },
+            {
+                "name": "xi xi",
+                "cn_name": "翕赩",
+                "pinyin": "Xī Xì",
+                "hex": "#5F766A",
+                "rgb": "RGB(95, 118, 106)",
+                "cmyk": "CMYK(70,50,60,0)"
+            },
+            {
+                "name": "jiu jin huang",
+                "cn_name": "九斤黄",
+                "pinyin": "Jiǔ Jīn Huáng",
+                "hex": "#DDB078",
+                "rgb": "RGB(221, 176, 120)",
+                "cmyk": "CMYK(15,35,55,0)"
+            },
+            {
+                "name": "xing zi",
+                "cn_name": "杏子",
+                "pinyin": "Xìng Zi",
+                "hex": "#DA9233",
+                "rgb": "RGB(218, 146, 51)",
+                "cmyk": "CMYK(15,50,85,0)"
+            },
+            {
+                "name": "mei die",
+                "cn_name": "媚蝶",
+                "pinyin": "Mèi Dié",
+                "hex": "#BC6E37",
+                "rgb": "RGB(188, 110, 55)",
+                "cmyk": "CMYK(30,65,85,0)"
+            },
+            {
+                "name": "mei ge",
+                "cn_name": "韎韐",
+                "pinyin": "Mèi Gé",
+                "hex": "#9F5221",
+                "rgb": "RGB(159, 82, 33)",
+                "cmyk": "CMYK(40,75,100,10)"
+            },
+            {
+                "name": "dong fang ji bai",
+                "cn_name": "东方既白",
+                "pinyin": "Dōng Fāng Jì Bái",
+                "hex": "#8BA3C7",
+                "rgb": "RGB(139, 163, 199)",
+                "cmyk": "CMYK(50,30,10,0)"
+            },
+            {
+                "name": "gan yu",
+                "cn_name": "绀宇",
+                "pinyin": "Gàn Yǔ",
+                "hex": "#003D74",
+                "rgb": "RGB(0, 61, 116)",
+                "cmyk": "CMYK(100,86,35,0)"
+            },
+            {
+                "name": "fu tou qing",
+                "cn_name": "佛头青",
+                "pinyin": "Fú Tóu Qīng",
+                "hex": "#19325F",
+                "rgb": "RGB(25, 50, 95)",
+                "cmyk": "CMYK(100,95,50,0)"
+            },
+            {
+                "name": "hua qing",
+                "cn_name": "花青",
+                "pinyin": "Huā Qīng",
+                "hex": "#1A2847",
+                "rgb": "RGB(26, 40, 71)",
+                "cmyk": "CMYK(100,100,65,15)"
+            },
+            {
+                "name": "fu ken hong",
+                "cn_name": "弗肯红",
+                "pinyin": "Fú Kěn Hóng",
+                "hex": "#ECD9C7",
+                "rgb": "RGB(236, 217, 199)",
+                "cmyk": "CMYK(5,15,20,5)"
+            },
+            {
+                "name": "chi zhang",
+                "cn_name": "赤璋",
+                "pinyin": "Chì Zhāng",
+                "hex": "#E1C199",
+                "rgb": "RGB(225, 193, 153)",
+                "cmyk": "CMYK(10,25,40,5)"
+            },
+            {
+                "name": "jian se",
+                "cn_name": "茧色",
+                "pinyin": "Jiǎn Sè",
+                "hex": "#C6A268",
+                "rgb": "RGB(198, 162, 104)",
+                "cmyk": "CMYK(20,35,60,10)"
+            },
+            {
+                "name": "mi tuo seng",
+                "cn_name": "密陀僧",
+                "pinyin": "Mì Tuó Sēng",
+                "hex": "#B3934B",
+                "rgb": "RGB(179, 147, 75)",
+                "cmyk": "CMYK(30,40,75,10)"
+            }
+        ]
+    },
+    {
+        "solarterm": "shuangjiang",
+        "colorlist": [
+            {
+                "name": "yin zhu",
+                "cn_name": "银朱",
+                "pinyin": "Yín Zhū",
+                "hex": "#D12920",
+                "rgb": "RGB(209, 41, 32)",
+                "cmyk": "CMYK(15,95,95,0)"
+            },
+            {
+                "name": "yan zhi chong",
+                "cn_name": "胭脂虫",
+                "pinyin": "Yān Zhī Chóng",
+                "hex": "#AB1D22",
+                "rgb": "RGB(171, 29, 34)",
+                "cmyk": "CMYK(35,100,100,5)"
+            },
+            {
+                "name": "zhu ying",
+                "cn_name": "朱樱",
+                "pinyin": "Zhū Yīng",
+                "hex": "#8F1D22",
+                "rgb": "RGB(143, 29, 34)",
+                "cmyk": "CMYK(45,100,100,15)"
+            },
+            {
+                "name": "jue tou",
+                "cn_name": "爵头",
+                "pinyin": "Jué Tóu",
+                "hex": "#631216",
+                "rgb": "RGB(99, 18, 22)",
+                "cmyk": "CMYK(55,100,100,40)"
+            },
+            {
+                "name": "gan shi",
+                "cn_name": "甘石",
+                "pinyin": "Gān Shí",
+                "hex": "#BDB2B2",
+                "rgb": "RGB(189, 178, 178)",
+                "cmyk": "CMYK(30,30,25,0)"
+            },
+            {
+                "name": "mi lou hui",
+                "cn_name": "迷楼灰",
+                "pinyin": "Mí Lóu Huī",
+                "hex": "#91828F",
+                "rgb": "RGB(145, 130, 143)",
+                "cmyk": "CMYK(50,50,35,0)"
+            },
+            {
+                "name": "ya chu",
+                "cn_name": "鸦雏",
+                "pinyin": "Yā Chú",
+                "hex": "#6A5B6D",
+                "rgb": "RGB(106, 91, 109)",
+                "cmyk": "CMYK(65,65,45,10)"
+            },
+            {
+                "name": "yan mo",
+                "cn_name": "烟墨",
+                "pinyin": "Yān Mò",
+                "hex": "#5C4F55",
+                "rgb": "RGB(92, 79, 85)",
+                "cmyk": "CMYK(70,70,60,15)"
+            },
+            {
+                "name": "shi yang jin",
+                "cn_name": "十样锦",
+                "pinyin": "Shí Yàng Jǐn",
+                "hex": "#F8C6B5",
+                "rgb": "RGB(248, 198, 181)",
+                "cmyk": "CMYK(0,30,25,0)"
+            },
+            {
+                "name": "tan chun",
+                "cn_name": "檀唇",
+                "pinyin": "Tán Chún",
+                "hex": "#DA9E8C",
+                "rgb": "RGB(218, 158, 140)",
+                "cmyk": "CMYK(15,45,40,0)"
+            },
+            {
+                "name": "qiong ju",
+                "cn_name": "琼琚",
+                "pinyin": "Qióng Jū",
+                "hex": "#D77F66",
+                "rgb": "RGB(215, 127, 102)",
+                "cmyk": "CMYK(15,60,55,0)"
+            },
+            {
+                "name": "tang li",
+                "cn_name": "棠梨",
+                "pinyin": "Táng Lí",
+                "hex": "#B15A43",
+                "rgb": "RGB(177, 90, 67)",
+                "cmyk": "CMYK(35,75,75,0)"
+            },
+            {
+                "name": "mi he",
+                "cn_name": "蜜合",
+                "pinyin": "Mì Hé",
+                "hex": "#DFD7C2",
+                "rgb": "RGB(223, 215, 194)",
+                "cmyk": "CMYK(15,15,25,0)"
+            },
+            {
+                "name": "jia shan nan",
+                "cn_name": "假山南",
+                "pinyin": "Jiǎ Shān Nán",
+                "hex": "#D4C1A6",
+                "rgb": "RGB(212, 193, 166)",
+                "cmyk": "CMYK(20,25,35,0)"
+            },
+            {
+                "name": "zi hua bu",
+                "cn_name": "紫花布",
+                "pinyin": "Zǐ Huā Bù",
+                "hex": "#BEA78B",
+                "rgb": "RGB(190, 167, 139)",
+                "cmyk": "CMYK(30,35,45,0)"
+            },
+            {
+                "name": "chen xiang",
+                "cn_name": "沉香",
+                "pinyin": "Chén Xiāng",
+                "hex": "#99806C",
+                "rgb": "RGB(153, 128, 108)",
+                "cmyk": "CMYK(45,50,55,5)"
+            }
+        ]
+    },
+    {
+        "solarterm": "lidong",
+        "colorlist": [
+            {
+                "name": "ban jian",
+                "cn_name": "半见",
+                "pinyin": "Bàn Jiàn",
+                "hex": "#FFFBC7",
+                "rgb": "RGB(255, 251, 199)",
+                "cmyk": "CMYK(0,0,30,0)"
+            },
+            {
+                "name": "nv zhen huang",
+                "cn_name": "女贞黄",
+                "pinyin": "Nǚ Zhēn Huáng",
+                "hex": "#F7EEAD",
+                "rgb": "RGB(247, 238, 173)",
+                "cmyk": "CMYK(5,5,40,0)"
+            },
+            {
+                "name": "juan wan",
+                "cn_name": "绢纨",
+                "pinyin": "Juàn Wán",
+                "hex": "#ECE093",
+                "rgb": "RGB(236, 224, 147)",
+                "cmyk": "CMYK(10,10,50,0)"
+            },
+            {
+                "name": "jiang huang",
+                "cn_name": "姜黄",
+                "pinyin": "Jiāng Huáng",
+                "hex": "#D6C560",
+                "rgb": "RGB(214, 197, 96)",
+                "cmyk": "CMYK(20,20,70,0)"
+            },
+            {
+                "name": "cong jie",
+                "cn_name": "繱犗",
+                "pinyin": "Cōng Jiè",
+                "hex": "#88BFB8",
+                "rgb": "RGB(136, 191, 184)",
+                "cmyk": "CMYK(50,10,30,0)"
+            },
+            {
+                "name": "er lv",
+                "cn_name": "二绿",
+                "pinyin": "Èr Lǜ",
+                "hex": "#5DA39D",
+                "rgb": "RGB(93, 163, 157)",
+                "cmyk": "CMYK(65,20,40,0)"
+            },
+            {
+                "name": "tong qing",
+                "cn_name": "铜青",
+                "pinyin": "Tóng Qīng",
+                "hex": "#3D8E86",
+                "rgb": "RGB(61, 142, 134)",
+                "cmyk": "CMYK(75,30,50,0)"
+            },
+            {
+                "name": "shi lv",
+                "cn_name": "石绿",
+                "pinyin": "Shí Lǜ",
+                "hex": "#206864",
+                "rgb": "RGB(32, 104, 100)",
+                "cmyk": "CMYK(85,50,60,10)"
+            },
+            {
+                "name": "huang cong",
+                "cn_name": "黄琮",
+                "pinyin": "Huáng Cóng",
+                "hex": "#9E8C6B",
+                "rgb": "RGB(158, 140, 107)",
+                "cmyk": "CMYK(45,45,60,0)"
+            },
+            {
+                "name": "cha se",
+                "cn_name": "茶色",
+                "pinyin": "Chá Sè",
+                "hex": "#887657",
+                "rgb": "RGB(136, 118, 87)",
+                "cmyk": "CMYK(55,55,70,0)"
+            },
+            {
+                "name": "ga luo",
+                "cn_name": "伽罗",
+                "pinyin": "Gā Luó",
+                "hex": "#6D5C3D",
+                "rgb": "RGB(109, 92, 61)",
+                "cmyk": "CMYK(60,50,80,20)"
+            },
+            {
+                "name": "cang ai",
+                "cn_name": "苍艾",
+                "pinyin": "Cāng Ài",
+                "hex": "#5A4B3B",
+                "rgb": "RGB(90, 75, 59)",
+                "cmyk": "CMYK(65,65,75,30)"
+            },
+            {
+                "name": "ou si he",
+                "cn_name": "藕丝褐",
+                "pinyin": "Ǒu Sī Hè",
+                "hex": "#A88787",
+                "rgb": "RGB(168, 135, 135)",
+                "cmyk": "CMYK(40,50,40,0)"
+            },
+            {
+                "name": "pu tao he",
+                "cn_name": "葡萄褐",
+                "pinyin": "Pú Táo Hè",
+                "hex": "#9E696D",
+                "rgb": "RGB(158, 105, 109)",
+                "cmyk": "CMYK(45,65,50,0)"
+            },
+            {
+                "name": "su fang",
+                "cn_name": "苏方",
+                "pinyin": "Sū Fāng",
+                "hex": "#81474C",
+                "rgb": "RGB(129, 71, 76)",
+                "cmyk": "CMYK(55,80,65,10)"
+            },
+            {
+                "name": "fu se",
+                "cn_name": "福色",
+                "pinyin": "Fú Sè",
+                "hex": "#662B2F",
+                "rgb": "RGB(102, 43, 47)",
+                "cmyk": "CMYK(60,90,80,30)"
+            }
+        ]
+    },
+    {
+        "solarterm": "xiaoxue",
+        "colorlist": [
+            {
+                "name": "long gao zhu",
+                "cn_name": "龙膏烛",
+                "pinyin": "Lóng Gāo Zhú",
+                "hex": "#DE82A7",
+                "rgb": "RGB(222, 130, 167)",
+                "cmyk": "CMYK(10,60,10,0)"
+            },
+            {
+                "name": "can zi",
+                "cn_name": "黪紫",
+                "pinyin": "Cǎn Zǐ",
+                "hex": "#CC73A0",
+                "rgb": "RGB(204, 115, 160)",
+                "cmyk": "CMYK(20,65,10,0)"
+            },
+            {
+                "name": "yan zhi shui",
+                "cn_name": "胭脂水",
+                "pinyin": "Yān Zhī Shuǐ",
+                "hex": "#B95A89",
+                "rgb": "RGB(185, 90, 137)",
+                "cmyk": "CMYK(30,75,20,0)"
+            },
+            {
+                "name": "yan zhi zi",
+                "cn_name": "胭脂紫",
+                "pinyin": "Yān Zhī Zǐ",
+                "hex": "#B0436F",
+                "rgb": "RGB(176, 67, 111)",
+                "cmyk": "CMYK(35,85,35,0)"
+            },
+            {
+                "name": "xiao hong",
+                "cn_name": "小红",
+                "pinyin": "Xiǎo Hóng",
+                "hex": "#E67762",
+                "rgb": "RGB(230, 119, 98)",
+                "cmyk": "CMYK(5,65,55,0)"
+            },
+            {
+                "name": "dai zhe",
+                "cn_name": "岱赭",
+                "pinyin": "Dài Zhě",
+                "hex": "#DD6B4F",
+                "rgb": "RGB(221, 107, 79)",
+                "cmyk": "CMYK(10,70,65,0)"
+            },
+            {
+                "name": "he ding hong",
+                "cn_name": "鹤顶红",
+                "pinyin": "Hè Dǐng Hóng",
+                "hex": "#D24735",
+                "rgb": "RGB(210, 71, 53)",
+                "cmyk": "CMYK(15,85,80,0)"
+            },
+            {
+                "name": "zhu yin",
+                "cn_name": "朱殷",
+                "pinyin": "Zhū Yīn",
+                "hex": "#B93A26",
+                "rgb": "RGB(185, 58, 38)",
+                "cmyk": "CMYK(30,90,95,0)"
+            },
+            {
+                "name": "yue bai",
+                "cn_name": "月白",
+                "pinyin": "Yuè Bái",
+                "hex": "#D4E5EF",
+                "rgb": "RGB(212, 229, 239)",
+                "cmyk": "CMYK(20,5,5,0)"
+            },
+            {
+                "name": "xing lang",
+                "cn_name": "星郎",
+                "pinyin": "Xīng Láng",
+                "hex": "#BCD4E7",
+                "rgb": "RGB(188, 212, 231)",
+                "cmyk": "CMYK(30,10,5,0)"
+            },
+            {
+                "name": "qing shan",
+                "cn_name": "晴山",
+                "pinyin": "Qíng Shān",
+                "hex": "#A3BBDB",
+                "rgb": "RGB(163, 187, 219)",
+                "cmyk": "CMYK(40,20,5,0)"
+            },
+            {
+                "name": "pin yue",
+                "cn_name": "品月",
+                "pinyin": "Pǐn Yuè",
+                "hex": "#8AABCC",
+                "rgb": "RGB(138, 171, 204)",
+                "cmyk": "CMYK(50,25,10,0)"
+            },
+            {
+                "name": "ming cha he",
+                "cn_name": "明茶褐",
+                "pinyin": "Míng Chá Hè",
+                "hex": "#9E8368",
+                "rgb": "RGB(158, 131, 104)",
+                "cmyk": "CMYK(45,50,60,0)"
+            },
+            {
+                "name": "jing he",
+                "cn_name": "荆褐",
+                "pinyin": "Jīng Hè",
+                "hex": "#906C4A",
+                "rgb": "RGB(144, 108, 74)",
+                "cmyk": "CMYK(50,60,75,5)"
+            },
+            {
+                "name": "tuo he",
+                "cn_name": "驼褐",
+                "pinyin": "Tuó Hè",
+                "hex": "#7C5B3E",
+                "rgb": "RGB(124, 91, 62)",
+                "cmyk": "CMYK(55,65,80,15)"
+            },
+            {
+                "name": "jiao he",
+                "cn_name": "椒褐",
+                "pinyin": "Jiāo Hè",
+                "hex": "#72453A",
+                "rgb": "RGB(114, 69, 58)",
+                "cmyk": "CMYK(55,75,75,25)"
+            }
+        ]
+    },
+    {
+        "solarterm": "daxue",
+        "colorlist": [
+            {
+                "name": "fen mi",
+                "cn_name": "粉米",
+                "pinyin": "Fěn Mǐ",
+                "hex": "#EFC4CE",
+                "rgb": "RGB(239, 196, 206)",
+                "cmyk": "CMYK(5,30,10,0)"
+            },
+            {
+                "name": "quan yuan",
+                "cn_name": "縓缘",
+                "pinyin": "Quán Yuán",
+                "hex": "#CE8892",
+                "rgb": "RGB(206, 136, 146)",
+                "cmyk": "CMYK(20,55,30,0)"
+            },
+            {
+                "name": "mei ren ji",
+                "cn_name": "美人祭",
+                "pinyin": "Měi Rén Jì",
+                "hex": "#C35C6A",
+                "rgb": "RGB(195, 92, 106)",
+                "cmyk": "CMYK(25,75,45,0)"
+            },
+            {
+                "name": "ting hong",
+                "cn_name": "鞓红",
+                "pinyin": "Tīng Hóng",
+                "hex": "#B04552",
+                "rgb": "RGB(176, 69, 82)",
+                "cmyk": "CMYK(35,85,60,0)"
+            },
+            {
+                "name": "mi tang jiao",
+                "cn_name": "米汤娇",
+                "pinyin": "Mǐ Tāng Jiāo",
+                "hex": "#EEEAD9",
+                "rgb": "RGB(238, 234, 217)",
+                "cmyk": "CMYK(5,5,15,5)"
+            },
+            {
+                "name": "cao bai",
+                "cn_name": "草白",
+                "pinyin": "Cǎo Bái",
+                "hex": "#BFC1A9",
+                "rgb": "RGB(191, 193, 169)",
+                "cmyk": "CMYK(30,25,35,0)"
+            },
+            {
+                "name": "xuan xiao",
+                "cn_name": "玄校",
+                "pinyin": "Xuán Xiào",
+                "hex": "#A9A082",
+                "rgb": "RGB(169, 160, 130)",
+                "cmyk": "CMYK(40,35,50,0)"
+            },
+            {
+                "name": "li shou",
+                "cn_name": "綟绶",
+                "pinyin": "Lì Shòu",
+                "hex": "#756C4B",
+                "rgb": "RGB(117, 108, 75)",
+                "cmyk": "CMYK(60,55,75,10)"
+            },
+            {
+                "name": "que mei",
+                "cn_name": "雀梅",
+                "pinyin": "Què Méi",
+                "hex": "#788A6F",
+                "rgb": "RGB(120, 138, 111)",
+                "cmyk": "CMYK(60,40,60,0)"
+            },
+            {
+                "name": "you lv",
+                "cn_name": "油绿",
+                "pinyin": "Yóu Lǜ",
+                "hex": "#5D7259",
+                "rgb": "RGB(93, 114, 89)",
+                "cmyk": "CMYK(70,50,70,5)"
+            },
+            {
+                "name": "mei mei",
+                "cn_name": "莓莓",
+                "pinyin": "Méi Méi",
+                "hex": "#4E6548",
+                "rgb": "RGB(78, 101, 72)",
+                "cmyk": "CMYK(75,55,80,10)"
+            },
+            {
+                "name": "luo qing",
+                "cn_name": "螺青",
+                "pinyin": "Luó Qīng",
+                "hex": "#3F503B",
+                "rgb": "RGB(63, 80, 59)",
+                "cmyk": "CMYK(80,65,85,20)"
+            },
+            {
+                "name": "mu shan zi",
+                "cn_name": "暮山紫",
+                "pinyin": "Mù Shān Zǐ",
+                "hex": "#A4ABD6",
+                "rgb": "RGB(164, 171, 214)",
+                "cmyk": "CMYK(40,30,0,0)"
+            },
+            {
+                "name": "zi yuan",
+                "cn_name": "紫苑",
+                "pinyin": "Zǐ Yuàn",
+                "hex": "#757CBB",
+                "rgb": "RGB(117, 124, 187)",
+                "cmyk": "CMYK(60,50,0,0)"
+            },
+            {
+                "name": "you tan rui",
+                "cn_name": "优昙瑞",
+                "pinyin": "Yōu Tán Ruì",
+                "hex": "#615EA8",
+                "rgb": "RGB(97, 94, 168)",
+                "cmyk": "CMYK(70,65,0,0)"
+            },
+            {
+                "name": "yan wei",
+                "cn_name": "延维",
+                "pinyin": "Yán Wéi",
+                "hex": "#4A4B9D",
+                "rgb": "RGB(74, 75, 157)",
+                "cmyk": "CMYK(80,75,0,0)"
+            }
+        ]
+    },
+    {
+        "solarterm": "dongzhi",
+        "colorlist": [
+            {
+                "name": "yin hong",
+                "cn_name": "银红",
+                "pinyin": "Yín Hóng",
+                "hex": "#E7CAD3",
+                "rgb": "RGB(231, 202, 211)",
+                "cmyk": "CMYK(10,25,10,0)"
+            },
+            {
+                "name": "lian hong",
+                "cn_name": "莲红",
+                "pinyin": "Lián Hóng",
+                "hex": "#D9A0B3",
+                "rgb": "RGB(217, 160, 179)",
+                "cmyk": "CMYK(15,45,15,0)"
+            },
+            {
+                "name": "zi mei",
+                "cn_name": "紫梅",
+                "pinyin": "Zǐ Méi",
+                "hex": "#BB7A8C",
+                "rgb": "RGB(187, 122, 140)",
+                "cmyk": "CMYK(30,60,30,0)"
+            },
+            {
+                "name": "zi kuang",
+                "cn_name": "紫矿",
+                "pinyin": "Zǐ Kuàng",
+                "hex": "#9E4E56",
+                "rgb": "RGB(158, 78, 86)",
+                "cmyk": "CMYK(45,80,60,0)"
+            },
+            {
+                "name": "xian chi",
+                "cn_name": "咸池",
+                "pinyin": "Xián Chí",
+                "hex": "#DAA9A9",
+                "rgb": "RGB(218, 169, 169)",
+                "cmyk": "CMYK(15,40,25,0)"
+            },
+            {
+                "name": "hong zhi",
+                "cn_name": "红䵂",
+                "pinyin": "Hóng Zhí",
+                "hex": "#CD7372",
+                "rgb": "RGB(205, 115, 114)",
+                "cmyk": "CMYK(20,65,45,0)"
+            },
+            {
+                "name": "chi you qi",
+                "cn_name": "蚩尤旗",
+                "pinyin": "Chī Yóu Qí",
+                "hex": "#A85858",
+                "rgb": "RGB(168, 88, 88)",
+                "cmyk": "CMYK(40,75,60,0)"
+            },
+            {
+                "name": "ji hong",
+                "cn_name": "霁红",
+                "pinyin": "Jì Hóng",
+                "hex": "#7C4449",
+                "rgb": "RGB(124, 68, 73)",
+                "cmyk": "CMYK(55,80,65,15)"
+            },
+            {
+                "name": "ying er",
+                "cn_name": "莺儿",
+                "pinyin": "Yīng Ér",
+                "hex": "#EBE1A9",
+                "rgb": "RGB(235, 225, 169)",
+                "cmyk": "CMYK(10,10,40,0)"
+            },
+            {
+                "name": "yu yu liang",
+                "cn_name": "禹余粮",
+                "pinyin": "Yǔ Yú Liáng",
+                "hex": "#E1D279",
+                "rgb": "RGB(225, 210, 121)",
+                "cmyk": "CMYK(15,15,60,0)"
+            },
+            {
+                "name": "yao huang",
+                "cn_name": "姚黄",
+                "pinyin": "Yáo Huáng",
+                "hex": "#D6BC46",
+                "rgb": "RGB(214, 188, 70)",
+                "cmyk": "CMYK(20,25,80,0)"
+            },
+            {
+                "name": "e huang",
+                "cn_name": "蛾黄",
+                "pinyin": "É Huáng",
+                "hex": "#BE8A2F",
+                "rgb": "RGB(190, 138, 47)",
+                "cmyk": "CMYK(30,50,90,0)"
+            },
+            {
+                "name": "zhuo jiang",
+                "cn_name": "濯绛",
+                "pinyin": "Zhuó Jiàng",
+                "hex": "#796860",
+                "rgb": "RGB(121, 104, 96)",
+                "cmyk": "CMYK(60,60,60,5)"
+            },
+            {
+                "name": "mo can",
+                "cn_name": "墨黪",
+                "pinyin": "Mò Cǎn",
+                "hex": "#585248",
+                "rgb": "RGB(88, 82, 72)",
+                "cmyk": "CMYK(70,65,70,20)"
+            },
+            {
+                "name": "tie li",
+                "cn_name": "驖骊",
+                "pinyin": "Tiě Lí",
+                "hex": "#46433B",
+                "rgb": "RGB(70, 67, 59)",
+                "cmyk": "CMYK(75,70,75,30)"
+            },
+            {
+                "name": "jing yuan",
+                "cn_name": "京元",
+                "pinyin": "Jīng Yuán",
+                "hex": "#31322C",
+                "rgb": "RGB(49, 50, 44)",
+                "cmyk": "CMYK(80,75,80,45)"
+            }
+        ]
+    },
+    {
+        "solarterm": "xiaohan",
+        "colorlist": [
+            {
+                "name": "cuo bai",
+                "cn_name": "酂白",
+                "pinyin": "Cuó Bái",
+                "hex": "#F6F9E4",
+                "rgb": "RGB(246, 249, 228)",
+                "cmyk": "CMYK(5,0,15,0)"
+            },
+            {
+                "name": "duan chang",
+                "cn_name": "断肠",
+                "pinyin": "Duàn Cháng",
+                "hex": "#ECEBC2",
+                "rgb": "RGB(236, 235, 194)",
+                "cmyk": "CMYK(10,5,30,0)"
+            },
+            {
+                "name": "tian chi",
+                "cn_name": "田赤",
+                "pinyin": "Tián Chì",
+                "hex": "#E1D384",
+                "rgb": "RGB(225, 211, 132)",
+                "cmyk": "CMYK(15,15,55,0)"
+            },
+            {
+                "name": "huang feng",
+                "cn_name": "黄封",
+                "pinyin": "Huáng Fēng",
+                "hex": "#CAB272",
+                "rgb": "RGB(202, 178, 114)",
+                "cmyk": "CMYK(25,30,60,0)"
+            },
+            {
+                "name": "ding xiang he",
+                "cn_name": "丁香褐",
+                "pinyin": "Dīng Xiāng Hè",
+                "hex": "#BD9683",
+                "rgb": "RGB(189, 150, 131)",
+                "cmyk": "CMYK(30,45,45,0)"
+            },
+            {
+                "name": "tang li he",
+                "cn_name": "棠梨褐",
+                "pinyin": "Táng Lí Hè",
+                "hex": "#955A42",
+                "rgb": "RGB(149, 90, 66)",
+                "cmyk": "CMYK(45,70,75,10)"
+            },
+            {
+                "name": "zhu shi li",
+                "cn_name": "朱石栗",
+                "pinyin": "Zhū Shí Lì",
+                "hex": "#81492C",
+                "rgb": "RGB(129, 73, 44)",
+                "cmyk": "CMYK(50,75,90,20)"
+            },
+            {
+                "name": "zao he",
+                "cn_name": "枣褐",
+                "pinyin": "Zǎo Hè",
+                "hex": "#68361A",
+                "rgb": "RGB(104, 54, 26)",
+                "cmyk": "CMYK(55,80,100,35)"
+            },
+            {
+                "name": "qiu lan",
+                "cn_name": "秋蓝",
+                "pinyin": "Qiū Lán",
+                "hex": "#7D929F",
+                "rgb": "RGB(125, 146, 159)",
+                "cmyk": "CMYK(55,35,30,5)"
+            },
+            {
+                "name": "yu yang ran",
+                "cn_name": "育阳染",
+                "pinyin": "Yù Yáng Rǎn",
+                "hex": "#576470",
+                "rgb": "RGB(87, 100, 112)",
+                "cmyk": "CMYK(70,55,45,15)"
+            },
+            {
+                "name": "ji lan",
+                "cn_name": "霁蓝",
+                "pinyin": "Jì Lán",
+                "hex": "#3C4654",
+                "rgb": "RGB(60, 70, 84)",
+                "cmyk": "CMYK(80,70,55,25)"
+            },
+            {
+                "name": "ta jian",
+                "cn_name": "獭见",
+                "pinyin": "Tǎ Jiàn",
+                "hex": "#151D29",
+                "rgb": "RGB(21, 29, 41)",
+                "cmyk": "CMYK(85,75,60,65)"
+            },
+            {
+                "name": "jing tian",
+                "cn_name": "井天",
+                "pinyin": "Jǐng Tiān",
+                "hex": "#A4C9CC",
+                "rgb": "RGB(164, 201, 204)",
+                "cmyk": "CMYK(40,10,20,0)"
+            },
+            {
+                "name": "zheng qing",
+                "cn_name": "正青",
+                "pinyin": "Zhèng Qīng",
+                "hex": "#6CA8AF",
+                "rgb": "RGB(108, 168, 175)",
+                "cmyk": "CMYK(60,20,30,0)"
+            },
+            {
+                "name": "bian qing",
+                "cn_name": "扁青",
+                "pinyin": "Biǎn Qīng",
+                "hex": "#509296",
+                "rgb": "RGB(80, 146, 150)",
+                "cmyk": "CMYK(70,30,40,0)"
+            },
+            {
+                "name": "dao se",
+                "cn_name": "䌦色",
+                "pinyin": "Dào Sè",
+                "hex": "#226B68",
+                "rgb": "RGB(34, 107, 104)",
+                "cmyk": "CMYK(85,50,60,5)"
+            }
+        ]
+    },
+    {
+        "solarterm": "dahan",
+        "colorlist": [
+            {
+                "name": "zi fu",
+                "cn_name": "紫府",
+                "pinyin": "Zǐ Fǔ",
+                "hex": "#995D7F",
+                "rgb": "RGB(153, 93, 127)",
+                "cmyk": "CMYK(45,70,30,5)"
+            },
+            {
+                "name": "di xue",
+                "cn_name": "地血",
+                "pinyin": "Dì Xuè",
+                "hex": "#814662",
+                "rgb": "RGB(129, 70, 98)",
+                "cmyk": "CMYK(55,80,45,10)"
+            },
+            {
+                "name": "jie shi zi",
+                "cn_name": "芥拾紫",
+                "pinyin": "Jiè Shí Zǐ",
+                "hex": "#602641",
+                "rgb": "RGB(96, 38, 65)",
+                "cmyk": "CMYK(60,90,55,35)"
+            },
+            {
+                "name": "you zi",
+                "cn_name": "油紫",
+                "pinyin": "Yóu Zǐ",
+                "hex": "#420B2F",
+                "rgb": "RGB(66, 11, 47)",
+                "cmyk": "CMYK(70,100,60,50)"
+            },
+            {
+                "name": "gu piao",
+                "cn_name": "骨缥",
+                "pinyin": "Gǔ Piāo",
+                "hex": "#EBE3C7",
+                "rgb": "RGB(235, 227, 199)",
+                "cmyk": "CMYK(10,10,25,0)"
+            },
+            {
+                "name": "qing bai yu",
+                "cn_name": "青白玉",
+                "pinyin": "Qīng Bái Yù",
+                "hex": "#CAC5A0",
+                "rgb": "RGB(202, 197, 160)",
+                "cmyk": "CMYK(25,20,40,0)"
+            },
+            {
+                "name": "lv dou he",
+                "cn_name": "绿豆褐",
+                "pinyin": "Lǜ Dòu Hè",
+                "hex": "#92896B",
+                "rgb": "RGB(146, 137, 107)",
+                "cmyk": "CMYK(50,45,60,0)"
+            },
+            {
+                "name": "ming se",
+                "cn_name": "冥色",
+                "pinyin": "Míng Sè",
+                "hex": "#665F4D",
+                "rgb": "RGB(102, 95, 77)",
+                "cmyk": "CMYK(65,60,70,15)"
+            },
+            {
+                "name": "rou hong",
+                "cn_name": "肉红",
+                "pinyin": "Ròu Hóng",
+                "hex": "#DDC5B8",
+                "rgb": "RGB(221, 197, 184)",
+                "cmyk": "CMYK(15,25,25,0)"
+            },
+            {
+                "name": "zhu zi he",
+                "cn_name": "珠子褐",
+                "pinyin": "Zhū Zi Hè",
+                "hex": "#BEA89D",
+                "rgb": "RGB(190, 168, 157)",
+                "cmyk": "CMYK(30,35,35,0)"
+            },
+            {
+                "name": "ying bei he",
+                "cn_name": "鹰背褐",
+                "pinyin": "Yīng Bèi Hè",
+                "hex": "#8F6D5F",
+                "rgb": "RGB(143, 109, 95)",
+                "cmyk": "CMYK(50,60,60,5)"
+            },
+            {
+                "name": "she xiang he",
+                "cn_name": "麝香褐",
+                "pinyin": "Shè Xiāng Hè",
+                "hex": "#694B3C",
+                "rgb": "RGB(105, 75, 60)",
+                "cmyk": "CMYK(60,70,75,25)"
+            },
+            {
+                "name": "shi ying",
+                "cn_name": "石英",
+                "pinyin": "Shí Yīng",
+                "hex": "#C8B6BB",
+                "rgb": "RGB(200, 182, 187)",
+                "cmyk": "CMYK(25,30,20,0)"
+            },
+            {
+                "name": "yin he",
+                "cn_name": "银褐",
+                "pinyin": "Yín Hè",
+                "hex": "#9C8D9B",
+                "rgb": "RGB(156, 141, 155)",
+                "cmyk": "CMYK(45,45,30,0)"
+            },
+            {
+                "name": "yan hong",
+                "cn_name": "烟红",
+                "pinyin": "Yān Hóng",
+                "hex": "#9D858F",
+                "rgb": "RGB(157, 133, 143)",
+                "cmyk": "CMYK(45,50,35,0)"
+            },
+            {
+                "name": "zi gao",
+                "cn_name": "紫诰",
+                "pinyin": "Zǐ Gào",
+                "hex": "#76555D",
+                "rgb": "RGB(118, 85, 93)",
+                "cmyk": "CMYK(60,70,55,10)"
+            }
+        ]
+    }
+]

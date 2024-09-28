@@ -1,0 +1,230 @@
+[
+  {
+    "month": "01",
+    "solarterms": [
+      {
+        "name": "xiaohan",
+        "cn_name": "小寒",
+        "pinyin": "Xiǎo Hán",
+        "en_name": "Minor Cold",
+        "date": "05/01"
+      },
+      {
+        "name": "dahan",
+        "cn_name": "大寒",
+        "pinyin": "Dà Hán",
+        "en_name": "Major Cold",
+        "date": "20/01"
+      }
+    ]
+  },
+  {
+    "month": "02",
+    "solarterms": [
+      {
+        "name": "lichun",
+        "cn_name": "立春",
+        "pinyin": "Lì Chūn",
+        "en_name": "Start of Spring",
+        "date": "04/02"
+      },
+      {
+        "name": "yushui",
+        "cn_name": "雨水",
+        "pinyin": "Yǔ Shuǐ",
+        "en_name": "Rain Water",
+        "date": "19/02"
+      }
+    ]
+  },
+  {
+    "month": "03",
+    "solarterms": [
+      {
+        "name": "jingzhe",
+        "cn_name": "惊蛰",
+        "pinyin": "Jīng Zhé",
+        "en_name": "Awakening of Insects",
+        "date": "06/03"
+      },
+      {
+        "name": "chunfen",
+        "cn_name": "春分",
+        "pinyin": "Chūn Fēn",
+        "en_name": "Spring Equinox",
+        "date": "21/03"
+      }
+    ]
+  },
+  {
+    "month": "04",
+    "solarterms": [
+      {
+        "name": "qingming",
+        "cn_name": "清明",
+        "pinyin": "Qīng Míng",
+        "en_name": "Clear and Bright",
+        "date": "05/04"
+      },
+      {
+        "name": "guyu",
+        "cn_name": "谷雨",
+        "pinyin": "Gǔ Yǔ",
+        "en_name": "Grain Rain",
+        "date": "20/04"
+      }
+    ]
+  },
+  {
+    "month": "05",
+    "solarterms": [
+      {
+        "name": "lixia",
+        "cn_name": "立夏",
+        "pinyin": "Lì Xià",
+        "en_name": "Start of Summer",
+        "date": "06/05"
+      },
+      {
+        "name": "xiaoman",
+        "cn_name": "小满",
+        "pinyin": "Xiǎo Mǎn",
+        "en_name": "Grain Full",
+        "date": "21/05"
+      }
+    ]
+  },
+  {
+    "month": "06",
+    "solarterms": [
+      {
+        "name": "mangzhong",
+        "cn_name": "芒种",
+        "pinyin": "Máng Zhòng",
+        "en_name": "Grain in Ear",
+        "date": "06/06"
+      },
+      {
+        "name": "xiazhi",
+        "cn_name": "夏至",
+        "pinyin": "Xià Zhì",
+        "en_name": "Summer Solstice",
+        "date": "21/06"
+      }
+    ]
+  },
+  {
+    "month": "07",
+    "solarterms": [
+      {
+        "name": "xiaoshu",
+        "cn_name": "小暑",
+        "pinyin": "Xiǎo Shǔ",
+        "en_name": "Minor Heat",
+        "date": "07/07"
+      },
+      {
+        "name": "dashu",
+        "cn_name": "大暑",
+        "pinyin": "Dà Shǔ",
+        "en_name": "Major Heat",
+        "date": "23/07"
+      }
+    ]
+  },
+  {
+    "month": "08",
+    "solarterms": [
+      {
+        "name": "liqiu",
+        "cn_name": "立秋",
+        "pinyin": "Lì Qiū",
+        "en_name": "Start of Autumn",
+        "date": "08/08"
+      },
+      {
+        "name": "chushu",
+        "cn_name": "处暑",
+        "pinyin": "Chǔ Shǔ",
+        "en_name": "End of Heat",
+        "date": "23/08"
+      }
+    ]
+  },
+  {
+    "month": "09",
+    "solarterms": [
+      {
+        "name": "bailu",
+        "cn_name": "白露",
+        "pinyin": "Bái Lù",
+        "en_name": "White Dew",
+        "date": "07/09"
+      },
+      {
+        "name": "qiufen",
+        "cn_name": "秋分",
+        "pinyin": "Qiū Fēn",
+        "en_name": "Autumn Equinox",
+        "date": "23/09"
+      }
+    ]
+  },
+  {
+    "month": "10",
+    "solarterms": [
+      {
+        "name": "hanlu",
+        "cn_name": "寒露",
+        "pinyin": "Hán Lù",
+        "en_name": "Cold Dew",
+        "date": "08/10"
+      },
+      {
+        "name": "shuangjiang",
+        "cn_name": "霜降",
+        "pinyin": "Shuāng Jiàng",
+        "en_name": "Frost Descent",
+        "date": "23/10"
+      }
+    ]
+  },
+  {
+    "month": "11",
+    "solarterms": [
+      {
+        "name": "lidong",
+        "cn_name": "立冬",
+        "pinyin": "Lì Dōng",
+        "en_name": "Start of Winter",
+        "date": "07/11"
+      },
+      {
+        "name": "xiaoxue",
+        "cn_name": "小雪",
+        "pinyin": "Xiǎo Xuě",
+        "en_name": "Minor Snow",
+        "date": "22/11"
+      }
+    ]
+  },
+  {
+    "month": "12",
+    "solarterms": [
+      {
+        "name": "daxue",
+        "cn_name": "大雪",
+        "pinyin": "Dà Xuě",
+        "en_name": "Major Snow",
+        "date": "07/12"
+      },
+      {
+        "name": "dongzhi",
+        "cn_name": "冬至",
+        "pinyin": "Dōng Zhì",
+        "en_name": "Winter Solstice",
+        "date": "21/12"
+      }
+    ]
+  }
+]
