@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/monthly-wallpaper/static/css/main.4bba4439.css",
-    "main.js": "/monthly-wallpaper/static/js/main.4d688b4a.js",
+    "main.css": "/monthly-wallpaper/static/css/main.acfe7cf0.css",
+    "main.js": "/monthly-wallpaper/static/js/main.4b09614f.js",
     "static/media/PlaywriteCU-Regular.ttf": "/monthly-wallpaper/static/media/PlaywriteCU-Regular.ae8ab5bac40a0768456d.ttf",
     "static/media/DMSerifDisplay-Regular.ttf": "/monthly-wallpaper/static/media/DMSerifDisplay-Regular.ca478f5117e07586dd07.ttf",
     "static/media/BodoniModa_18pt-Regular.ttf": "/monthly-wallpaper/static/media/BodoniModa_18pt-Regular.379c899b60944f249802.ttf",
     "index.html": "/monthly-wallpaper/index.html",
-    "main.4bba4439.css.map": "/monthly-wallpaper/static/css/main.4bba4439.css.map",
-    "main.4d688b4a.js.map": "/monthly-wallpaper/static/js/main.4d688b4a.js.map"
+    "main.acfe7cf0.css.map": "/monthly-wallpaper/static/css/main.acfe7cf0.css.map",
+    "main.4b09614f.js.map": "/monthly-wallpaper/static/js/main.4b09614f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bba4439.css",
-    "static/js/main.4d688b4a.js"
+    "static/css/main.acfe7cf0.css",
+    "static/js/main.4b09614f.js"
   ]
 }
