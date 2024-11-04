@@ -94,9 +94,9 @@ const Home = () => {
   const textColor = shouldUseBlackText(r, g, b) ? "black" : "white";
 
   return (
-    <div className="px-3 bg-black">
-      <div className="w-full min-h-screen container mx-auto flex">
-        <div className="w-[100px] bg-white mx-0.5">
+    <div className="px-0.5 bg-black">
+      <div className="w-full min-h-screen flex">
+        <div className="w-[60px] bg-white mx-0.5 xl:w-[100px]">
           <Header />
         </div>
         <div className="flex-1 flex-col items-center bg-white mx-0.5 min-w-[600px]">
